@@ -1,0 +1,4 @@
+ALTER TABLE menus
+  ADD COLUMN IF NOT EXISTS submitted_at   TIMESTAMPTZ,
+  ADD COLUMN IF NOT EXISTS submitted_by   UUID REFERENCES users(id),
+  ADD COLUMN IF NOT EXISTS rd_notes       TEXT;

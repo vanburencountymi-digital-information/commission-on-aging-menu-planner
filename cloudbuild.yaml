@@ -1,0 +1,45 @@
+# Builds the image from the repo-root Dockerfile and rolls it out to an existing
+# Cloud Run service. Runs in whichever project executes the build ($PROJECT_ID).
+#
+#   gcloud builds submit --config cloudbuild.yaml --project <project> .
+#
+# The Cloud Run service itself (secrets, Cloud SQL, scaling) is created once with
+# `gcloud run deploy`; this pipeline only updates its image.
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    id: Build
+    args:
+      - build
+      - -t
+      - '$_AR_HOSTNAME/$PROJECT_ID/$_AR_REPOSITORY/$_SERVICE_NAME:$BUILD_ID'
+      - .
+
+  - name: 'gcr.io/cloud-builders/docker'
+    id: Push
+    args:
+      - push
+      - '$_AR_HOSTNAME/$PROJECT_ID/$_AR_REPOSITORY/$_SERVICE_NAME:$BUILD_ID'
+
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk:slim'
+    id: Deploy
+    entrypoint: gcloud
+    args:
+      - run
+      - services
+      - update
+      - '$_SERVICE_NAME'
+      - '--image=$_AR_HOSTNAME/$PROJECT_ID/$_AR_REPOSITORY/$_SERVICE_NAME:$BUILD_ID'
+      - '--region=$_DEPLOY_REGION'
+      - '--quiet'
+
+images:
+  - '$_AR_HOSTNAME/$PROJECT_ID/$_AR_REPOSITORY/$_SERVICE_NAME:$BUILD_ID'
+
+substitutions:
+  _AR_HOSTNAME: us-central1-docker.pkg.dev
+  _AR_REPOSITORY: coa-menu-planner
+  _SERVICE_NAME: coa-menu-planner
+  _DEPLOY_REGION: us-central1
+
+options:
+  logging: CLOUD_LOGGING_ONLY
