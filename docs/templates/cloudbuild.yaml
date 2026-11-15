@@ -1,0 +1,60 @@
+# Cloud Build — build, push, and deploy Cloud Run API
+#
+# Trigger: push to main where files match apps/api/**
+# Set trigger substitutions in Cloud Console:
+#   _SERVICE_NAME   = your-service-name
+#   _DEPLOY_REGION  = us-central1  (or whatever region)
+#
+# Substitutions with defaults (_AR_* variables) work for most GCP projects
+# as long as Artifact Registry has a repository named "cloud-run-source-deploy".
+#
+# Secrets are NOT managed here — wire them in Cloud Run directly:
+#   gcloud run services update $_SERVICE_NAME \
+#     --set-secrets="DB_URL=SECRET_NAME:latest,OTHER=OTHER_SECRET:latest" \
+#     --region=$_DEPLOY_REGION
+
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    id: Build
+    args:
+      - build
+      - --no-cache
+      - -t
+      - '$_AR_HOSTNAME/$_AR_PROJECT_ID/$_AR_REPOSITORY/$REPO_NAME/$_SERVICE_NAME:$COMMIT_SHA'
+      - apps/api
+      - -f
+      - apps/api/Dockerfile
+
+  - name: 'gcr.io/cloud-builders/docker'
+    id: Push
+    args:
+      - push
+      - '$_AR_HOSTNAME/$_AR_PROJECT_ID/$_AR_REPOSITORY/$REPO_NAME/$_SERVICE_NAME:$COMMIT_SHA'
+
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk:slim'
+    id: Deploy
+    entrypoint: gcloud
+    args:
+      - run
+      - services
+      - update
+      - '$_SERVICE_NAME'
+      - '--platform=managed'
+      - '--image=$_AR_HOSTNAME/$_AR_PROJECT_ID/$_AR_REPOSITORY/$REPO_NAME/$_SERVICE_NAME:$COMMIT_SHA'
+      - '--labels=managed-by=gcp-cloud-build-deploy-cloud-run,commit-sha=$COMMIT_SHA,gcb-build-id=$BUILD_ID,gcb-trigger-id=$_TRIGGER_ID'
+      - '--region=$_DEPLOY_REGION'
+      - '--quiet'
+
+images:
+  - '$_AR_HOSTNAME/$_AR_PROJECT_ID/$_AR_REPOSITORY/$REPO_NAME/$_SERVICE_NAME:$COMMIT_SHA'
+
+substitutions:
+  _AR_HOSTNAME: us-central1-docker.pkg.dev
+  _AR_PROJECT_ID: YOUR_GCP_PROJECT_ID
+  _AR_REPOSITORY: cloud-run-source-deploy
+  _SERVICE_NAME: YOUR_SERVICE_NAME
+  _DEPLOY_REGION: us-central1
+
+options:
+  logging: CLOUD_LOGGING_ONLY
+  substitutionOption: ALLOW_LOOSE

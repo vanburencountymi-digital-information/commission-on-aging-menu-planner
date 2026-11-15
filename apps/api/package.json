@@ -1,0 +1,42 @@
+{
+  "name": "coa-menu-planner-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "migrate": "psql $DATABASE_URL < db/migrations/001_initial_schema.sql",
+    "migrate:node": "node db/migrate.js",
+    "seed": "psql $DATABASE_URL < db/seeds/001_recipes.sql",
+    "migrate:node2": "node db/migrate2.js",
+    "migrate:node3": "node db/migrate3.js",
+    "migrate:node4": "node db/migrate4.js",
+    "migrate:node5": "node db/migrate5.js",
+    "migrate:node6": "node db/migrate6.js",
+    "migrate:node7": "node db/migrate7.js",
+    "migrate:node8": "node db/migrate8.js",
+    "migrate:node9": "node db/migrate9.js",
+    "migrate:node10": "node db/migrate10.js",
+    "seed:users": "node db/seeds/002_users.js",
+    "import:icn": "node db/import-icn.js",
+    "repatch:icn-ingredients": "node db/repatch-icn-ingredients.js",
+    "link:icn-usda": "node db/link-icn-usda.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.97.1",
+    "@lucia-auth/adapter-postgresql": "^3.1.2",
+    "argon2": "^0.44.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^8.7.1",
+    "helmet": "^8.1.0",
+    "lucia": "^3.2.2",
+    "pdfkit": "^0.18.0",
+    "postgres": "^3.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

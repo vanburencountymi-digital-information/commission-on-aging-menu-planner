@@ -1,0 +1,5 @@
+# Python dependencies for cbord_importer.py
+# Installed into the Cloud Run container by the Dockerfile (Phase 3 of DIC-175).
+# For local dev: pip install -r cbord_requirements.txt
+pdf2image>=1.17
+pytesseract>=0.3

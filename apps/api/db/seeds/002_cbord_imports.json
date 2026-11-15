@@ -1,0 +1,4962 @@
+[
+  {
+    "name": "Chicken Salad Fruited",
+    "raw_category_label": "Cold",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": "#8 scoop",
+    "calories_per_serving": 177,
+    "ingredients": [
+      {
+        "name": "Celery",
+        "qty": "4",
+        "unit": "lb",
+        "qty_value": 4.0,
+        "raw_qty": "4 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Hard Cooked Peeled Eggs",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "24 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "5.66 1 Cup, diced",
+        "needs_review": true
+      },
+      {
+        "name": "Cooked Diced Chicken",
+        "qty": "16",
+        "unit": "lb",
+        "qty_value": 16.0,
+        "raw_qty": "16 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground White Pepper",
+        "qty": "2",
+        "unit": "tsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Light Mayonnaise",
+        "qty": "2",
+        "unit": "qt",
+        "qty_value": 2.0,
+        "raw_qty": "2 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Seedless Red Grapes",
+        "qty": "5",
+        "unit": "lb",
+        "qty_value": 5.0,
+        "raw_qty": "5 Pound",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 8,
+    "ingredients_needing_review": 2,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "1. Finely dice celery.",
+      "2. Chop eggs.",
+      "3. Combine all ingredients except for the grapes. Mix lightly. Chill,",
+      "CCP: COLD FOOD HELD FOR LATER SERVICE MUST NOT EXCEED A MAXIMUM INTERNAL",
+      "TEMPERATURE OF 4/F.",
+      "4. Halve grapes and add to mixture just before serving."
+    ],
+    "instructions_count": 7,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, Dysphagia Mechanically Altered and Dysphagia Advanced Diets\nOMIT all raw vegetables and grapes. For Finger Foods diet, serve on bread or croissant.",
+    "source_page": 1,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Cole Slaw Creamy Scratch",
+    "raw_category_label": "Cold",
+    "category": "COLD_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": "#8 scoop",
+    "calories_per_serving": 207,
+    "ingredients": [
+      {
+        "name": "Fresh Green Cabbage",
+        "qty": "12",
+        "unit": "lb",
+        "qty_value": 12.0,
+        "raw_qty": "12 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Jumbo Carrots",
+        "qty": "2",
+        "unit": "lb",
+        "qty_value": 2.0,
+        "raw_qty": "2 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Green Peppers",
+        "qty": "1",
+        "unit": "lb",
+        "qty_value": 1.0,
+        "raw_qty": "1 Pound 13 1/2 Ounce",
+        "extra": "13 1/2 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "1.24 1 Cup, diced",
+        "needs_review": true
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "2 1/4",
+        "unit": "qt",
+        "qty_value": 2.25,
+        "raw_qty": "2 1/4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Lite Sour Cream",
+        "qty": "2 1/4",
+        "unit": "qt",
+        "qty_value": 2.25,
+        "raw_qty": "2 1/4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 7,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "1. Shred cabbage. Finely chop carrots. Dice green peppers. Combine all vegetables.",
+      "2. In a large bow! combine mayonnaise, sour cream, vinegar, white pepper, and sugar. Add to cabbage",
+      "and carrot mixture. Mix lightly.",
+      "3. Cover and chill.",
+      "CCP: COLD FOOD HELD FOR LATER SERVICE MUST NOT EXCEED AN INTERNAL TEMPERATURE OF",
+      "41\u00b0F,",
+      "4. Serve using a #8 scoop."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft and NDD Level 3 diets, serve allowed cooked, soft vegetable.\n\nFor Finger Foods diet, serve cabbage wedge (or other raw cut vegetable) with choice of dressing on the\nside.",
+    "source_page": 2,
+    "source": "20260526113753099",
+    "source_pages": [
+      2,
+      22
+    ]
+  },
+  {
+    "name": "Salad Three Bean",
+    "raw_category_label": "Cold",
+    "category": "COLD_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "4z spoodle",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Canned Kidney Beans Drained",
+        "qty": "2 3/4",
+        "unit": "qt",
+        "qty_value": 2.75,
+        "raw_qty": "2 3/4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Canned Green Beans",
+        "qty": "1 1/4",
+        "unit": "gal",
+        "qty_value": 1.25,
+        "raw_qty": "1 1/4 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Canned Wax Beans",
+        "qty": "3 1/2",
+        "unit": "qt",
+        "qty_value": 3.5,
+        "raw_qty": "3 1/2 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Green Peppers Seeded, Diced Fine",
+        "qty": "2.36",
+        "unit": "cup",
+        "qty_value": 2.36,
+        "raw_qty": "2.36 Cup, Chpd",
+        "extra": "Chpd",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "14.18 1 Cup, diced",
+        "needs_review": true
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "4",
+        "unit": "qt",
+        "qty_value": 4.0,
+        "raw_qty": "4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Granulated Sugar",
+        "qty": "1",
+        "unit": "qt",
+        "qty_value": 1.0,
+        "raw_qty": "1 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground Celery Seed",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oii",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 11,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      ". Drain green and wax beans thoroughly.",
+      ". Rinse kidney beans and drain.",
+      ". Finely chop green peppers.",
+      ". Ina large bowl combine rest of ingredients (except oil) to make the marinade.",
+      ". Pour marinade over beans, Refrigerate overnight.",
+      "ahwh =",
+      "CCP: COLD FOOD HELD FOR LATER SERVICE MUST NOT EXCEED AN INTERNAL TEMPERATURE OF",
+      "AVF,",
+      "6. Just before serving, drain off marinade. Discard marinade.",
+      "7. Add oil. Toss lightly.",
+      "8. Serve with 1/2 cup slotted spoodle."
+    ],
+    "instructions_count": 12,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Levei 2 & 3 OMIT all raw vegetables.",
+    "source_page": 3,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Chicken Thigh Dijon",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 thigh",
+    "serving_utensil": "Tongs",
+    "calories_per_serving": 226,
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Thigh",
+        "qty": "25",
+        "unit": "lb",
+        "qty_value": 25.0,
+        "raw_qty": "25 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Pan Coating Spray",
+        "qty": "2",
+        "unit": "spray",
+        "qty_value": 2.0,
+        "raw_qty": "2 Spray to coat",
+        "extra": "to coat",
+        "needs_review": false
+      },
+      {
+        "name": "Hny Dijon Mstrd Dressing",
+        "qty": "2 1/4",
+        "unit": "qt",
+        "qty_value": 2.25,
+        "raw_qty": "2 1/4 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "100% Lemon Juice",
+        "qty": "3",
+        "unit": "cup",
+        "qty_value": 3.0,
+        "raw_qty": "3 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Tarragon Leaf",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "qty": "1 1/2",
+        "unit": "cup",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Arrange chicken on baking sheets sprayed with cooking spray.",
+      "2. Cook chicken at 325\u00b0F for 20-25 minutes or until cooked through.",
+      "3. In a bowl, combine the honey Dijon dressing, lemon juice, tarragon and Worcestershire.",
+      "4. Brush the glaze over chicken thighs during the last few minutes of cooking.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 165\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE \u2018MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "5. Serve 1 thigh."
+    ],
+    "instructions_count": 9,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Level 2 & 3 Diets, grind meat to desired texture.\n\nFor Finger Food diet, cut food into bite size pieces.",
+    "source_page": 4,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Vegetable Blend Key West",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": null,
+    "calories_per_serving": 20,
+    "ingredients": [
+      {
+        "name": "Key West Vegetable Blend",
+        "qty": "3 1/4",
+        "unit": "gal",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Place vegetables not more than 3-4 inches deep in stainless steel inset pans. Perforated pans provide",
+      "the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in steamer for 10 minutes (5-6 psi) or 5-9 minutes (12-15 psi) or until just tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 140\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "3. Serve using a 4 oz spoodle."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 5,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Broccoli Florets Frsh MTG",
+    "raw_category_label": "[None]",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "42 spoodie",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Broccoli 3 1/4 Galion",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL PRODUCE UNDER COOL RUNNING WATER.",
+      "1. Serve.",
+      "CCP: COLD FOODS HELD FOR LATER SERVICE MUST NOT EXCEED A MAXIMUM INTERNAL",
+      "TEMPERATURE OF 41\u00b0F.",
+      "Child Nutrition: 1/2 cup provides= 1/2 cup dark green vegetable",
+      "Updated June 2019"
+    ],
+    "instructions_count": 6,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 6,
+    "source": "20260526113753099",
+    "source_pages": [
+      6,
+      7,
+      12
+    ]
+  },
+  {
+    "name": "Potatoes Red Skin Mashed Speed Scratch",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": "Yield: 100 #8 scoop",
+    "calories_per_serving": 12,
+    "ingredients": [
+      {
+        "name": "Fresh Diced Redskin Potatoes",
+        "qty": "24",
+        "unit": "lb",
+        "qty_value": 24.0,
+        "raw_qty": "24 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "2% White Milk",
+        "qty": "1",
+        "unit": "gal",
+        "qty_value": 1.0,
+        "raw_qty": "1 Gallon 2 Cup",
+        "extra": "2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "1",
+        "unit": "lb",
+        "qty_value": 1.0,
+        "raw_qty": "1 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Salt To Taste",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 4,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKED PRODUCE UNDER RUNNING WATER. DRAIN WELL.",
+      "1. Steam or boil diced potatoes until cooked.",
+      "2. When done, drain and place in a mixer bowl.",
+      "3, Mash, using the wire whip attachment, on low speed until there are no lumps.",
+      "4. Whip on high speed for about 2 minutes.",
+      "5. Add hot milk, margarine and salt.",
+      "6. Whip on high speed until light and creamy.",
+      "7. Serve one #8 scoop.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "*"
+    ],
+    "instructions_count": 11,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Levels 3, 2 and 1, remove potato skins before preparing.",
+    "source_page": 7,
+    "source": "20260526113753099",
+    "source_pages": [
+      7,
+      13,
+      19
+    ]
+  },
+  {
+    "name": "Italian Sausage on Bun",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 each",
+    "serving_utensil": "Tongs",
+    "calories_per_serving": 464,
+    "ingredients": [
+      {
+        "name": "Mild Italian Sausage Link",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "100 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Hot Dog Bun",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "100 1 Each",
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 2,
+    "ingredients_needing_review": 2,
+    "instructions": [
+      "1. Steam or boil sausage until hot.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM",
+      "TEMPERATURE OF 135\u00b0F.",
+      "2. Place cooked sausage on bun."
+    ],
+    "instructions_count": 6,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Level 2 & 3 Diets, grind meat to desired texture.",
+    "source_page": 8,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Peppers & Onions Sauteed",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Green Peppers",
+        "qty": "6",
+        "unit": "lb",
+        "qty_value": 6.0,
+        "raw_qty": "6 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "13.25 1 Cup, diced",
+        "needs_review": true
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 3,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER RUNNING WATER. DRAIN WELL.",
+      "1. Preheat oven to 325\u00b0F.",
+      "2. Combine peppers and onions in a large mixing bowl. Add oil; stir to mix well. Place on parchment lined",
+      "sheet tray in a single layer.",
+      "3. Bake for 40 to 50 minutes or until vegetables are soft, tender and slightly caramelized.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F, HELD FOR A MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 9,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 9,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Potato Wedges Sweet Roasted",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "1/2 cup",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Sweet Potato",
+        "qty": "36",
+        "unit": "lb",
+        "qty_value": 36.0,
+        "raw_qty": "36 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "1 1/2",
+        "unit": "cup",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Curry Powder",
+        "qty": "1/4",
+        "unit": "cup",
+        "qty_value": 0.25,
+        "raw_qty": "1/4 Cup 1/2 Teaspoon",
+        "extra": "1/2 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Ground Cumin",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon 1/4 Teaspoon",
+        "extra": "1/4 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon 1/4 Teaspoon",
+        "extra": "1/4 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon 1/4 Teaspoon",
+        "extra": "1/4 Teaspoon",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL RUNNING WATER, DRAIN WELL.",
+      "1. Preheat oven to 425\u00b0F,",
+      "2. Cut sweet potatoes in half lengthwise and then each half into 6 wedges.",
+      "3. Combine all ingredients in a bowl. Toss gently to coat.",
+      "4. Place wedges on a baking sheet so they do not overlap. Bake until very tender.",
+      "5. Serve 1/2 cup (about 1/2 potato)= 6 wedges.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanically Altered Diets, potatoes should be soft.\n\nFor Mechanical Soft and NDD Level 3 diets, REMOVE skins before serving.",
+    "source_page": 10,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Peas & Carrots",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": null,
+    "calories_per_serving": 34,
+    "ingredients": [
+      {
+        "name": "Frozen Peas & Carrots",
+        "qty": "17",
+        "unit": "lb",
+        "qty_value": 17.0,
+        "raw_qty": "17 Pound 12 Ounce",
+        "extra": "12 Ounce",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1, Place vegetables not more than 3-4 inches deep in stainless steel inset pans. Perforated pans provide",
+      "the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in steamer for 10 minutes (5-6 psi) or 5-9 minutes (12-15 psi) or until just tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "3. Serve using a 4 0z spoodle or menued portion."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 11,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Fish Maple Glazed",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 fillet",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Brown Sugar",
+        "qty": "4/2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "4/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Maple Syrup",
+        "qty": "4 1/2",
+        "unit": "cup",
+        "qty_value": 4.5,
+        "raw_qty": "4 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Lite Soy Sauce",
+        "qty": "1/2",
+        "unit": "cup",
+        "qty_value": 0.5,
+        "raw_qty": "1/2 Cup 2 Tablespoon",
+        "extra": "2 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "1/2",
+        "unit": "cup",
+        "qty_value": 0.5,
+        "raw_qty": "1/2 Cup 2 Tablespoon",
+        "extra": "2 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Ground Ginger",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon 1/4 Teaspoon",
+        "extra": "1/4 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "4/2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "4/2 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER RUNNING WATER DRAIN WELL.",
+      "1. In a saucepan, melt brown sugar, syrup and butter.",
+      "2. Remove from heat and whisk in soy sauce, oil and ground ginger. Reserve sauce for step #4.",
+      "3. Heat oil in skillet over medium heat. Add fish and brown on both sides.",
+      "4, Place fish in greased baking sheet skin down. Brush with glaze. Discard after use.",
+      "5. Bake in a conventional! oven at 375\u00b0F for 15-20 minutes.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL COOKING",
+      "TEMPERATURE 135\u00b0F.",
+      "6. Serve 1 fillet or menued portion.",
+      "Source: Central Plaza Home"
+    ],
+    "instructions_count": 12,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 12,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Rice Pilaf",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": "#8 scoop",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Green Peppers",
+        "qty": "0.8",
+        "unit": "cup",
+        "qty_value": 0.8,
+        "raw_qty": "0.8 Cup, Chpd",
+        "extra": "Chpd",
+        "needs_review": false
+      },
+      {
+        "name": "Mushroom Stems & Pcs 2 1Cup",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      },
+      {
+        "name": "Margarine",
+        "qty": "4 1/2",
+        "unit": "cup",
+        "qty_value": 4.5,
+        "raw_qty": "4 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Parboiled Long Grain Rice",
+        "qty": "3 1/2",
+        "unit": "qt",
+        "qty_value": 3.5,
+        "raw_qty": "3 1/2 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": "2 3/4",
+        "unit": "cup",
+        "qty_value": 2.75,
+        "raw_qty": "2 3/4 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "1 1/2",
+        "unit": "gal",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Chicken Base",
+        "qty": "4/2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "4/2 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 7,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      ". Dice green peppers and mushrooms.",
+      ". Melt margarine and place in baking pans.",
+      ". Mix rice, onions, green peppers, and mushrooms. Place in baking pan(s).",
+      ". Prepare base by bringing water to a boil and adding base.",
+      ". Pour prepared base over rice.",
+      ". Cover pan(s) tightly and bake at 350\u00b0F for 30 to 45 minutes.",
+      ". Remove from oven and let stand covered for 5 minutes.",
+      "NO oh OD =",
+      "CCP; FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "8. Serve using a #8 scoop."
+    ],
+    "instructions_count": 14,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 13,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Rice Pilaf Alfredo Florentine",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": null,
+    "calories_per_serving": 204,
+    "ingredients": [
+      {
+        "name": "Frozen Chopped Spinach",
+        "qty": "1",
+        "unit": "qt",
+        "qty_value": 1.0,
+        "raw_qty": "1 Quart 3/4 Cup",
+        "extra": "3/4 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Alfredo Sauce",
+        "qty": "4 1/4",
+        "unit": "gal",
+        "qty_value": 4.25,
+        "raw_qty": "4 1/4 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Roasted Red Peppers",
+        "qty": "1 1/2",
+        "unit": "qt",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Quart 1/4 Cup",
+        "extra": "1/4 Cup",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 3,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Thaw, drain and squeeze dry spinach.",
+      "2. Heat alfredo sauce, spinach and red peppers over medium heat unt! heated through.",
+      "3. Add to warm rice and stir until evenly coated.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F,"
+    ],
+    "instructions_count": 5,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 14,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Cauliflower Fresh MTG",
+    "raw_category_label": "[None]",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "1/2 c\u00a2 Serving",
+    "serving_utensil": "Tongs",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Cauliflower Reg Cut",
+        "qty": "3 1/4",
+        "unit": "gal",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL PRODUCE UNDER COOL RUNNING WATER.",
+      "1. Clean & portion caulifiower into 1/2 cup each.",
+      "3. Serve.",
+      "GCP: COLD FOODS HELD FOR LATER SERVICE MUST NOT EXCEED A MAXIMUM INTERNAL",
+      "TEMPERATURE OF 41\u00b0F.",
+      "Child Nutrition: 1/2 cup serving provides= 1/2 cup \u201cother\u201d vegetable",
+      "Updated October 2013"
+    ],
+    "instructions_count": 7,
+    "has_ccp_notes": false,
+    "diet_notes": null,
+    "source_page": 15,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Peas Creamy w/Red Peppers",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodie",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Vegetable Oil",
+        "qty": "3",
+        "unit": "tbsp",
+        "qty_value": 3.0,
+        "raw_qty": "3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Red Bell Peppers",
+        "qty": "4.99",
+        "unit": "cup",
+        "qty_value": 4.99,
+        "raw_qty": "4.99 Cup, Chpd",
+        "extra": "Chpd",
+        "needs_review": false
+      },
+      {
+        "name": "Frozen Green Peas",
+        "qty": "15",
+        "unit": "lb",
+        "qty_value": 15.0,
+        "raw_qty": "15 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "12 1/2",
+        "unit": "oz",
+        "qty_value": 12.5,
+        "raw_qty": "12 1/2 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Flour",
+        "qty": "12 1/2",
+        "unit": "oz",
+        "qty_value": 12.5,
+        "raw_qty": "12 1/2 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "1 2/3",
+        "unit": "tbsp",
+        "qty_value": 1.6666666666666665,
+        "raw_qty": "1 2/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1 1/2",
+        "unit": "tsp",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "2% White Milk 1 1/2 Galton",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 8,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "4. Saute chopped red peppers in oil. Set aside.",
+      "2. Place peas not more than 3-4 inches deep in stainless steel inset pans. Perforated pans",
+      "provide the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "3. Cook vegetables in steamer for 6-7 minutes (5-6 psi) or 2-6 minutes (12-15 psi) or until just",
+      "tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "4. To make cream gravy melt margarine and add flour. Blend well.",
+      "5. Stir in salt and pepper, Cook for 5 minutes.",
+      "6. Add milk gradually. Cook, stirring constantly with wire whip. Cook until smooth and",
+      "thickened.",
+      "7, Mix peppers and peas. Add sauce to cooked peas and peppers. Mix well.",
+      "CCP; HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "7. Serve using a 4 0z spoodie.",
+      "Source: Pathway to Living"
+    ],
+    "instructions_count": 17,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 16,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Turkey Breast Citrus-Glazed",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "4z mt",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "100% Orange Juice 4+1 Concentrate",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Lime",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "1.05 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Lime Juice",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "2 1/8",
+        "unit": "tsp",
+        "qty_value": 2.125,
+        "raw_qty": "2 1/8 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Red Sodium Turkey Breast",
+        "qty": "25",
+        "unit": "lb",
+        "qty_value": 25.0,
+        "raw_qty": "25 Pound",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 5,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL RUNNING WATER, DRAIN WELL.",
+      "1, Preheat oven to 325\u00b0F. Combine juice concentrate, lime pee, lime juice, french dressing and salt in",
+      "small bowl; cover. Refrigerate until ready to use.",
+      "CCP: REFRIGERATE AT 41\u00b0F OR BELOW.",
+      "2. Remove thawed turkey from package; pat dry with paper towels.",
+      "3. Place turkey on flat roasting rack in roasting pan about 3 inches deep. Brush the juice mixture on the",
+      "turkey. Spray roast with cooking spray. Bake 1 3/4 to 2 hours covered; brush turkey several times with the",
+      "juice concentrate mixture during the last 30 minutes of baking time.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 165\u00b0F, HELD FOR 15",
+      "SECONDS.",
+      "4. Let turkey stand 10 minutes before carving.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F",
+      "*Modified Diet Note: For Finger Foods diet, turkey should be cut into small bite-size pieces."
+    ],
+    "instructions_count": 14,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 17,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Potatoes Red Roasted",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "1/2 cup",
+    "serving_utensil": null,
+    "calories_per_serving": 176,
+    "ingredients": [
+      {
+        "name": "Red Potatoes Size \"b\"",
+        "qty": "25",
+        "unit": "lb",
+        "qty_value": 25.0,
+        "raw_qty": "25 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Yellow Onions",
+        "qty": "1",
+        "unit": "gal",
+        "qty_value": 1.0,
+        "raw_qty": "1 Gallon 2 Cup",
+        "extra": "2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "3 1/4",
+        "unit": "cup",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Rosemary Garlic Seasoning",
+        "qty": "3/4",
+        "unit": "cup",
+        "qty_value": 0.75,
+        "raw_qty": "3/4 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 4,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER RUNNING WATER. DRAIN WELL.",
+      "1, Preheat oven to 425\u00b0F,",
+      "2. Wash potatoes and onions.",
+      "3. Slice potatoes and onions to 1\" thick.",
+      "3. Combine oil and rosemary garlic Seasoning in a small bowl.",
+      "4, Place potatoes and onions on a sheet tray.",
+      "5. Add oil mixture and toss or stir until well coated.",
+      "6. Bake at 425\u00b0F for 20-25 minutes or until tender and potatoes are lightly browned.",
+      "6. Serve 1/2 cup (or menued portion).",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 12,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Levels 3 & 2 potato skins should be removed before cooking. Cook potatoes\nuntil soft and tender.",
+    "source_page": 18,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Squash Butternut Whipped",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Butternut Squash",
+        "qty": "33",
+        "unit": "lb",
+        "qty_value": 33.0,
+        "raw_qty": "33 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "3 1/4",
+        "unit": "gal",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Brown Sugar { Cup",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground Nutmeg",
+        "qty": "2 1/8",
+        "unit": "tsp",
+        "qty_value": 2.125,
+        "raw_qty": "2 1/8 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 5,
+    "ingredients_needing_review": 0,
+    "instructions": [],
+    "instructions_count": 0,
+    "has_ccp_notes": false,
+    "diet_notes": null,
+    "source_page": 19,
+    "source": "20260526113753099"
+  },
+  {
+    "name": "Hamburger Stroganoff",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": null,
+    "yield_unit": null,
+    "serving_utensil": null,
+    "calories_per_serving": 249,
+    "ingredients": [
+      {
+        "name": "Ground Beef 80/20",
+        "qty": "19",
+        "unit": "lb",
+        "qty_value": 19.0,
+        "raw_qty": "19 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "41 1/2",
+        "unit": "oz",
+        "qty_value": 41.5,
+        "raw_qty": "41 1/2 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Celery Finely Chopped",
+        "qty": "2",
+        "unit": "qt",
+        "qty_value": 2.0,
+        "raw_qty": "2 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Dcd 1/4\"",
+        "qty": "1 1/2",
+        "unit": "qt",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Quart 1/4 Cup",
+        "extra": "1/4 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon 3/4 Teaspoon",
+        "extra": "3/4 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Beef Base",
+        "qty": "1/4",
+        "unit": "cup",
+        "qty_value": 0.25,
+        "raw_qty": "1/4 Cup 1/3 Tablespoon",
+        "extra": "1/3 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Water Hot",
+        "qty": "3 1/4",
+        "unit": "qt",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Flour",
+        "qty": "2 1/2",
+        "unit": "cup",
+        "qty_value": 2.5,
+        "raw_qty": "2 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Water Hot",
+        "qty": "3",
+        "unit": "cup",
+        "qty_value": 3.0,
+        "raw_qty": "3 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 3 Tablespoon",
+        "extra": "3 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Mushroom Stems & Pcs",
+        "qty": "1 3/4",
+        "unit": "qt",
+        "qty_value": 1.75,
+        "raw_qty": "1 3/4 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "4 3/4",
+        "unit": "oz",
+        "qty_value": 4.75,
+        "raw_qty": "4 3/4 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Sour Cream",
+        "qty": "3 1/4",
+        "unit": "cup",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 13,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "1, Brown beef in margarine (#1).",
+      "2. Dice celery. Add onions, celery and black pepper to beef. Cook until vegetables are tender.",
+      "3. Prepare beef base and add to beef. Simmer 20 minutes.",
+      "4. Add flour, water and Worcestershire sauce. Stir until smooth. Add to beef. Stir and cook until",
+      "thickened.",
+      "5. Saute\u2019 mushrooms in margarine (#2),",
+      "6. Add sour cream and mushrooms to meat mixture. Stir to distribute and blend.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 155 \u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE OF",
+      "135\u00b0F,",
+      "7. Serve using a 4z ladle over rice or noodles."
+    ],
+    "instructions_count": 13,
+    "has_ccp_notes": true,
+    "diet_notes": "For RF Hamburger Stroganoff OMIT margarine and decrease sour cream by half.\n**Modified Diet Note: For RS Hamburger Stroganoff OMIT margarine & use reduced sodium beef base.",
+    "source_page": 20,
+    "source": "20260526113753099",
+    "source_pages": [
+      20,
+      1
+    ]
+  },
+  {
+    "name": "Noodles Egg",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "4z slotted spoon",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Extra Wide Egg Noodles",
+        "qty": "6",
+        "unit": "lb",
+        "qty_value": 6.0,
+        "raw_qty": "6 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "7",
+        "unit": "gal",
+        "qty_value": 7.0,
+        "raw_qty": "7 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 2,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1, In a large stock pot or steam-jacketed kettle, bring water to a boil and add pasta gradually while stirring.",
+      "2. Continue cooking uncovered at a fast boil until pasta is tender, but firm: about 12 minutes. Stir",
+      "occasionally to prevent sticking.",
+      "3. Drain.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE OF",
+      "135\u00b0F.",
+      "4, Serve with 1/2 cup slotted spoodle or menued portion."
+    ],
+    "instructions_count": 9,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 2,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Tomatoes Scalloped",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": null,
+    "calories_per_serving": 86,
+    "ingredients": [
+      {
+        "name": "Salt Free Diced Tomatoes Cnd",
+        "qty": "22",
+        "unit": "lb",
+        "qty_value": 22.0,
+        "raw_qty": "22 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Saltine Crackers",
+        "qty": "1",
+        "unit": "lb",
+        "qty_value": 1.0,
+        "raw_qty": "1 Pound 1 Ounce",
+        "extra": "1 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "2 1/8",
+        "unit": "tsp",
+        "qty_value": 2.125,
+        "raw_qty": "2 1/8 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "2 1/8",
+        "unit": "tsp",
+        "qty_value": 2.125,
+        "raw_qty": "2 1/8 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Grated Parmesan Cheese",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Parsley Flakes",
+        "qty": "2 2/3",
+        "unit": "tbsp",
+        "qty_value": 2.6666666666666665,
+        "raw_qty": "2 2/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 7,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Preheat oven to 350\u00b0F.",
+      "2. Combine drained diced tomatoes, crushed crackers, salt and pepper.",
+      "3. Pour into baking pan and sprinkle with Parmesan cheese and dot with margarine. Season with parsley.",
+      "4. Bake uncovered in Conventional Oven for 20 minutes.",
+      "CCP; FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FOR 15",
+      "SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "5. Serve using a 4 0z spoodie or menued portion."
+    ],
+    "instructions_count": 9,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 3,
+    "source": "20260526113819876",
+    "source_pages": [
+      3,
+      7
+    ]
+  },
+  {
+    "name": "Beans Wax",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodie",
+    "serving_utensil": null,
+    "calories_per_serving": 22,
+    "ingredients": [
+      {
+        "name": "Cut Yellow Wax Beans",
+        "qty": "3",
+        "unit": "gal",
+        "qty_value": 3.0,
+        "raw_qty": "3 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Place vegetables not more than 3-4 inches deep in stainless steel inset pans. Perforated pans provide",
+      "the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in steamer for 10-12 minutes (5-6 psi) or 7-11 minutes (12-15 psi) or until just tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 140F FOR A MINIMUM OF",
+      "15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135F.",
+      "3. Serve using a 4 oz spoodie.",
+      "*"
+    ],
+    "instructions_count": 9,
+    "has_ccp_notes": true,
+    "diet_notes": "Minced & Moist: Finely mashed with soft shells and pieces <4 mm.\n\nSoft & Bite Sized: soft shells and pieces <1.5 cm x 1.5 cm.",
+    "source_page": 4,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Pork Chop Bourbon",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 chop",
+    "serving_utensil": "Tongs",
+    "calories_per_serving": 219,
+    "ingredients": [
+      {
+        "name": "Boneless Center Cut Pork Loin Chop, 4z",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "100 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Bourbon Sauce",
+        "qty": "3",
+        "unit": "qt",
+        "qty_value": 3.0,
+        "raw_qty": "3 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Pan Coating Spray",
+        "qty": "2",
+        "unit": "spray",
+        "qty_value": 2.0,
+        "raw_qty": "2 Spray to coat",
+        "extra": "to coat",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 3,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "1. Marinate the pork chops in Bourbon Sauce for 3 hours, refrigerated.",
+      "CCP: REFRIGERATE AT 41\u00b0F OR BELOW.",
+      "2. Discard marinade.",
+      "3. Place pork chops in sprayed full size hotel pan and bake at 375\u00b0F for 20 to 30 minutes.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "4. Serve 1 pork chop."
+    ],
+    "instructions_count": 9,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Level 2 & 3 Diets, grind meat to desired texture.\n\nee",
+    "source_page": 5,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Potatoes Sweet Whipped",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": "#8 scoop",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Sweet Potatoes",
+        "qty": "26",
+        "unit": "lb",
+        "qty_value": 26.0,
+        "raw_qty": "26 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "4",
+        "unit": "qt",
+        "qty_value": 4.0,
+        "raw_qty": "4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground Nutmeg",
+        "qty": "1 1/3",
+        "unit": "tbsp",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "1 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Pan Coating Spray",
+        "qty": "2",
+        "unit": "spray",
+        "qty_value": 2.0,
+        "raw_qty": "2 Spray to coat",
+        "extra": "to coat",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 4,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Drain sweet potatoes and place in mixer. Whip until smooth.",
+      "2. Add margarine and nutmeg and whip for 2 minutes or until fluffy.",
+      "3. Pour into greased pan(s). Cover and bake at 350\u00b0F for 20 minutes or until heated through,",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 140\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F,",
+      "4. Serve using a #8 scoop."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 6,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Noodles Parmesan",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodie",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Farfalle Pasta",
+        "qty": "6",
+        "unit": "lb",
+        "qty_value": 6.0,
+        "raw_qty": "6 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "~ Water",
+        "qty": "7",
+        "unit": "gal",
+        "qty_value": 7.0,
+        "raw_qty": "7 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "2/3",
+        "unit": "cup",
+        "qty_value": 0.6666666666666666,
+        "raw_qty": "2/3 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Grated Parmesan Cheese",
+        "qty": "2",
+        "unit": "lb",
+        "qty_value": 2.0,
+        "raw_qty": "2 Pound",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 4,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. In a large stock pot or steam-jacketed kettle bring water to a boil and add pasta gradually while stirring,",
+      "2. Continue cooking uncovered at a fast boil until pasta is tender, but firm: about 11 minutes. Stir",
+      "occasionally to prevent sticking.",
+      "3. Drain.",
+      "4, Add oil.",
+      "5. Sprinkle cheese on noodles. Toss to blend.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE OF",
+      "135\u00b0F."
+    ],
+    "instructions_count": 10,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 9,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Squash Butternut Roasted",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Butternut Squash",
+        "qty": "28",
+        "unit": "lb",
+        "qty_value": 28.0,
+        "raw_qty": "28 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "4 3/4",
+        "unit": "cup",
+        "qty_value": 4.75,
+        "raw_qty": "4 3/4 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Salt To Taste",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      },
+      {
+        "name": "Regular Grind Black Pepper To Taste",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 4,
+    "ingredients_needing_review": 2,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER RUNNING WATER. DRAIN WELL.",
+      "1. Preheat conventional oven to 400\u00b0F.",
+      "2. Place squash on sheet and drizzle with oil and season with salt and pepper to taste. Toss well.",
+      "3. Arrange quash in one layer and roast for 25-30 minutes, until the squash is tender, turning once.",
+      "CCP: FINAL INTERNAL TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FOR A MINIMUM OF 15",
+      "SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 11,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Chicken Marsala",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 thigh",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Thigh",
+        "qty": "25",
+        "unit": "lb",
+        "qty_value": 25.0,
+        "raw_qty": "25 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "No Salt Garlic Herb Seasoning",
+        "qty": "3/4",
+        "unit": "cup",
+        "qty_value": 0.75,
+        "raw_qty": "3/4 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "1 1/2",
+        "unit": "cup",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": "2 1/4",
+        "unit": "qt",
+        "qty_value": 2.25,
+        "raw_qty": "2 1/4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Mushrooms",
+        "qty": "2 1/2",
+        "unit": "gal",
+        "qty_value": 2.5,
+        "raw_qty": "2 1/2 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Marsala Cooking Wine",
+        "qty": "1 1/2",
+        "unit": "qt",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Quart 1/4 Cup",
+        "extra": "1/4 Cup",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 0,
+    "instructions": [],
+    "instructions_count": 0,
+    "has_ccp_notes": false,
+    "diet_notes": null,
+    "source_page": 12,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "AAA ee PPO is SSS SSS SSS RS SS ST SSSR",
+    "raw_category_label": "Beets Harvard",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "4z spoodle",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Salad Sliced Beets 3 1/4 Galion Drained, reserve juice ~ Whole Bay Leaf",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "3 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Ground Cloves",
+        "qty": "2",
+        "unit": "tsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Granulated Sugar",
+        "qty": "1",
+        "unit": "lb",
+        "qty_value": 1.0,
+        "raw_qty": "1 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "2",
+        "unit": "oz",
+        "qty_value": 2.0,
+        "raw_qty": "2 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Corn Starch",
+        "qty": "12",
+        "unit": "oz",
+        "qty_value": 12.0,
+        "raw_qty": "12 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "8",
+        "unit": "oz",
+        "qty_value": 8.0,
+        "raw_qty": "8 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "1",
+        "unit": "qt",
+        "qty_value": 1.0,
+        "raw_qty": "1 Quart",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 7,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "1, Drain beets and reserve juice.",
+      "2. Add bay leaf and cloves to reserved beet juice; heat to boiling point.",
+      "3. Combine sugar, salt and corn starch. Add to beet juice while stirring briskly; cook until thickened and",
+      "clear.",
+      "4, Add margarine and vinegar.",
+      "5. Heat beets and add to sauce.",
+      "6. Place heated beets in a 6\" deep hotel pan to hold for service.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "7. Serve using a 40z spoodle.",
+      "*"
+    ],
+    "instructions_count": 11,
+    "has_ccp_notes": true,
+    "diet_notes": "Minced & Moist: all food pieces must be tender and <4 mm.\n\nSoft & Bite Sized: all food pieces must be tender and 1.5 cm x 1.5 cm. No fried vegetables.",
+    "source_page": 14,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Asparagus Sauteed Fresh",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "1/2 cup",
+    "serving_utensil": null,
+    "calories_per_serving": 49,
+    "ingredients": [
+      {
+        "name": "Fresh Asparagus",
+        "qty": "16",
+        "unit": "lb",
+        "qty_value": 16.0,
+        "raw_qty": "16 Pound 12 Ounce",
+        "extra": "12 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "1 1/2",
+        "unit": "cup",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1 1/3",
+        "unit": "tbsp",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "1 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 3,
+    "ingredients_needing_review": 0,
+    "instructions": [],
+    "instructions_count": 0,
+    "has_ccp_notes": false,
+    "diet_notes": "For Mechanical Soft and NDD Level 3, asparagus should be cooked until soft and tender.",
+    "source_page": 15,
+    "source": "20260526113819876",
+    "source_pages": [
+      15,
+      31
+    ]
+  },
+  {
+    "name": "Steak Pepper",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": null,
+    "yield_unit": null,
+    "serving_utensil": "Yield: 2 18x 24\" Pan",
+    "calories_per_serving": 443,
+    "ingredients": [
+      {
+        "name": "4z Cubed Beef Steak",
+        "qty": "28",
+        "unit": "lb",
+        "qty_value": 28.0,
+        "raw_qty": "28 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "4 1/2",
+        "unit": "cup",
+        "qty_value": 4.5,
+        "raw_qty": "4 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "1",
+        "unit": "gal",
+        "qty_value": 1.0,
+        "raw_qty": "1 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Low-Sodium Beef Base",
+        "qty": "1/2",
+        "unit": "cup",
+        "qty_value": 0.5,
+        "raw_qty": "1/2 Cup 2 Tablespoon",
+        "extra": "2 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Tomato Paste",
+        "qty": "3 1/2",
+        "unit": "cup",
+        "qty_value": 3.5,
+        "raw_qty": "3 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Lite Soy Sauce",
+        "qty": "3",
+        "unit": "cup",
+        "qty_value": 3.0,
+        "raw_qty": "3 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Granulated Sugar",
+        "qty": "1/4",
+        "unit": "cup",
+        "qty_value": 0.25,
+        "raw_qty": "1/4 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1 1/3",
+        "unit": "tbsp",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "1 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Corn Starch",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "1",
+        "unit": "qt",
+        "qty_value": 1.0,
+        "raw_qty": "1 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": "1 3/4",
+        "unit": "qt",
+        "qty_value": 1.75,
+        "raw_qty": "1 3/4 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Red Bell Peppers",
+        "qty": "1 1/2",
+        "unit": "gal",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Garlic Powder",
+        "qty": "1 1/3",
+        "unit": "tbsp",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "1 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 14,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "1. Brown beef steak cubes for 5 minutes on lightly greased griddle turning frequently.",
+      "2. Place an equal quantity of cubed beef in each of the 2-18x24\" pans. Set aside.",
+      "3. Combine water, beef base, tomato paste, soy sauce, sugar and pepper in a large pot. Blend well. Bring",
+      "to a boil.",
+      "4, Combine cornstarch and water; stir until smooth, Add to sauce mixture in pot. Cook until thickened,",
+      "stirring constantly,",
+      "5. Pour 3 quarts of sauce over beef in each pan. Cover and bake for 1-1/2 hours at 400\u00b0F.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 155\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "6. Saute onions, peppers, and garlic in olive oil for 5 minutes or until onions are translucent.",
+      "7. Add 3 1/2 quarts sauteed vegetables to each pan. Cover and bake for 30 minutes at 400\u00b0F or until beef is",
+      "tender.",
+      "8. Serve 3/4 cup (or menued portion).",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE OF",
+      "135\u00b0F."
+    ],
+    "instructions_count": 16,
+    "has_ccp_notes": true,
+    "diet_notes": "For Finger Food diet, cut food into bite size pieces and serve the sauce on the side.\n\nMinced & Moist: meat and/or serve finely chopped, tender and <4 mm in thick gravy or sauce and puree\nany bread/starch. Vegetables: all food pieces must be tender and <4 mm.\n\nSoft & Bite Sized: can contain meat, fish or vegetables if final cooked pieces are no larger than 1.5 cm x\n\n4.5 cm and are soft and tender. No hard lumps. Vegetables: all food pieces must be tender and 1.5 cm x 1.5\ncm. No fried vegetables.",
+    "source_page": 16,
+    "source": "20260526113819876",
+    "source_pages": [
+      16,
+      17
+    ]
+  },
+  {
+    "name": "Rice Brown",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Parboiled Brown Rice",
+        "qty": "6",
+        "unit": "lb",
+        "qty_value": 6.0,
+        "raw_qty": "6 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "2",
+        "unit": "gal",
+        "qty_value": 2.0,
+        "raw_qty": "2 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 2,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Bring water to a boil, add rice. Cover tightly and simmer for 20 minutes or until liquid is absorbed.",
+      "2. Fluff with fork.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 4,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 18,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Carrots Herb Glazed",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "100% Orange Juice 4+1 Concentrate",
+        "qty": "1",
+        "unit": "gal",
+        "qty_value": 1.0,
+        "raw_qty": "1 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Brown Sugar",
+        "qty": "3/4",
+        "unit": "cup",
+        "qty_value": 0.75,
+        "raw_qty": "3/4 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Ground Ginger",
+        "qty": "1",
+        "unit": "tsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "No Salt A/P Herb Seasoning",
+        "qty": "4/2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "4/2 Cup 1/3 Tablespoon",
+        "extra": "1/3 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Crinkle Cut Slcd Carrots",
+        "qty": "25",
+        "unit": "lb",
+        "qty_value": 25.0,
+        "raw_qty": "25 Pound",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 5,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "4. Combine orange juice, brown sugar, ground ginger, herb seasoning and carrots.",
+      "2. Cook over medium-high heat until carrots are crisp tender, about 15 minutes.",
+      "3. Drain off any excess juice.",
+      "4. Serve a 4z spoodle or menued portion.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE OF",
+      "135\u00b0F."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 19,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Beans Green Italian",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "4z spoodle",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Frozen Italian Cut Green Beans",
+        "qty": "14",
+        "unit": "lb",
+        "qty_value": 14.0,
+        "raw_qty": "14 Pound 12 Ounce",
+        "extra": "12 Ounce",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Place vegetables not more than 3-4 inches deep in stainless steel inset pans. Perforated pans provide",
+      "the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in steamer for 10-12 minutes (5-6 psi) or 7-11 minutes (12-15 psi) or until just tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 140\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "3. Serve using a 4 oz spoodle ."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 20,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Sandwich Beef BBQ",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 each",
+    "serving_utensil": null,
+    "calories_per_serving": 469,
+    "ingredients": [
+      {
+        "name": "Low Sodium Ckd Beef Roast",
+        "qty": "18",
+        "unit": "lb",
+        "qty_value": 18.0,
+        "raw_qty": "18 Pound 12 Ounce",
+        "extra": "12 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "3",
+        "unit": "qt",
+        "qty_value": 3.0,
+        "raw_qty": "3 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "17.98 1 Cup, diced",
+        "needs_review": true
+      },
+      {
+        "name": "ftalian Dressing",
+        "qty": "3 1/4",
+        "unit": "cup",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Texas Toast",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "200 7 Slice",
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 5,
+    "ingredients_needing_review": 2,
+    "instructions": [
+      "1. Place meat in full-sized hotel pan. Cover with foil.",
+      "2. Bake at 275\u00b0 in a standard oven for 2-1/2 hours or until meat is tender and cooked through. Drain",
+      "excess fat.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 155\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "3. Pour BBQ sauce over meat. continue baking 30 minutes, basting occasionally with the liquid in the",
+      "bottom of pan.",
+      "4, Cut meat diagonally across the grain into thin slices.",
+      "5. Meanwhile, grill onions over medium heat about 5 minutes or until tender, turning and brushing",
+      "occasionally with the italian dressing.",
+      "6. Bake bread slices based on manufacturers directions.",
+      "7. For each serving: Place 3 oz of the meat mixture and about 1/4 cup of the onions on the bread. Cover",
+      "with another slice of bread.",
+      "CCP; HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE OF",
+      "135\u00b0F,"
+    ],
+    "instructions_count": 15,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 21,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Beans Baked (no bacon)",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Canned Pork & Beans",
+        "qty": "3",
+        "unit": "gal",
+        "qty_value": 3.0,
+        "raw_qty": "3 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": "3/4",
+        "unit": "cup",
+        "qty_value": 0.75,
+        "raw_qty": "3/4 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Brown Sugar",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup 2 Tablespoon",
+        "extra": "2 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Ground Mustard",
+        "qty": "1 1/2",
+        "unit": "tsp",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "3",
+        "unit": "tbsp",
+        "qty_value": 3.0,
+        "raw_qty": "3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Molasses",
+        "qty": "4 1/2",
+        "unit": "cup",
+        "qty_value": 4.5,
+        "raw_qty": "4 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ketchup",
+        "qty": "3 3/4",
+        "unit": "cup",
+        "qty_value": 3.75,
+        "raw_qty": "3 3/4 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 7,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Pour beans into baking pans.",
+      "2. Add remaining ingredients to beans.",
+      "3. Cover and bake at 350\u00b0F for 3-4 hours.",
+      "4, Uncover during last half hour of baking.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 6,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 23,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Shortcake Strawberry",
+    "raw_category_label": "Cold",
+    "category": "DESSERT",
+    "yield_qty": 100,
+    "yield_unit": "1 bsc, 1/4 cstr",
+    "serving_utensil": null,
+    "calories_per_serving": 236,
+    "ingredients": [
+      {
+        "name": "Pan Coating Spray",
+        "qty": "2",
+        "unit": "spray",
+        "qty_value": 2.0,
+        "raw_qty": "2 Spray to coat",
+        "extra": "to coat",
+        "needs_review": false
+      },
+      {
+        "name": "Biscuit Mix A/P",
+        "qty": "7",
+        "unit": "lb",
+        "qty_value": 7.0,
+        "raw_qty": "7 Pound 12 Ounce",
+        "extra": "12 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "2 1/4",
+        "unit": "qt",
+        "qty_value": 2.25,
+        "raw_qty": "2 1/4 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Flour",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Frozen Sliced Strawberries 1 1/2 Gailon",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Whipped Topping in Pastry Bag",
+        "qty": "1 1/2",
+        "unit": "qt",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Quart 1/4 Cup",
+        "extra": "1/4 Cup",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "For Biscuits:",
+      "1. Spray baking sheet lightly with cooking spray.",
+      "2. Pour total amount of water into mixing bowl. Add total amount of biscuit mix (5 Ib = full box).",
+      "3. Mix using a spoon or rubber spatula only until dough is smooth. DO NOT OVERMIX.",
+      "4, Roll out %\" thick on lightly floured surface.",
+      "5. Cut with 2 %\" biscuit cutter. Place close together, but not touching, on lightly greased baking sheet.",
+      "6. Bake at 400\u00b0F for 8-11 minutes.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH 145\u00b0F, HELD FOR A MINIMUM OF 15",
+      "SECONDS.",
+      "7. Open biscuits and place in serving dishes.",
+      "8. Ladle 1/4 cup strawberries on biscuit. Garnish with 1 Tbsp. whipped topping.",
+      "9. Serve immediately."
+    ],
+    "instructions_count": 12,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 24,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Fish Oven Baked",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 fillet",
+    "serving_utensil": "Spatula",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Pollock Fillet",
+        "qty": "25",
+        "unit": "lb",
+        "qty_value": 25.0,
+        "raw_qty": "25 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground White Pepper",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon 1/4 Teaspoon",
+        "extra": "1/4 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Skim Milk",
+        "qty": "1 1/2",
+        "unit": "gal",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Japanese Panko (Bread Crumbs)",
+        "qty": "5",
+        "unit": "lb",
+        "qty_value": 5.0,
+        "raw_qty": "5 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "1",
+        "unit": "qt",
+        "qty_value": 1.0,
+        "raw_qty": "1 Quart 3/4 Cup",
+        "extra": "3/4 Cup",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 5,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Thaw fish under refrigeration.",
+      "CCP: THAW UNDER REFRIGERATION AT 41\u00b0F OR BELOW.",
+      ". In medium bowl, combine milk and pepper.",
+      ". Dip fillets in seasoned milk, then in bread crumbs. Coat well.",
+      ". Place fillets on greased baking sheets.",
+      ". Melt margarine and drizzle over fish.",
+      ". Bake in Convection Oven at 375\u00b0F for 15 to 20 minutes or until fish flakes easily.",
+      "Oma hwh",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE OF",
+      "135\u00b0F,",
+      "7. Serve 1 fillet*",
+      "*Pollock fillet varies in size (4-6 oz As Purchased) however a minimum of 2 oz of protein (14 grams) is",
+      "provided in the 1 fillet serving after cooking.",
+      "Optional: Garnish with fresh parsley or tomato wedge. Garnish may not be appropriate for all diet types."
+    ],
+    "instructions_count": 16,
+    "has_ccp_notes": true,
+    "diet_notes": "For Finger Food diet, cut food into bite size pieces.",
+    "source_page": 25,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Potatoes Parslied",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "7 potatoes",
+    "serving_utensil": "4z spoodle",
+    "calories_per_serving": 73,
+    "ingredients": [
+      {
+        "name": "Canned Diced Potatoes",
+        "qty": "34",
+        "unit": "lb",
+        "qty_value": 34.0,
+        "raw_qty": "34 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Parsley Flakes",
+        "qty": "1 1/2",
+        "unit": "cup",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 3,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Drain half the liquid from the potatoes and place in stock pot and heat.",
+      "2. Drain off remaining liquid.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 140\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "3. Place in counter pans.",
+      "4. Pour margarine over potatoes, distribute uniformly.",
+      "5. Sprinkle with parsely.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "6. Serve 7 potatoes per person."
+    ],
+    "instructions_count": 10,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 26,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Beans Green & Mushrooms",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": null,
+    "calories_per_serving": 40,
+    "ingredients": [
+      {
+        "name": "Frozen Cut Green Beans",
+        "qty": "13",
+        "unit": "lb",
+        "qty_value": 13.0,
+        "raw_qty": "13 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Mushrooms",
+        "qty": "3",
+        "unit": "lb",
+        "qty_value": 3.0,
+        "raw_qty": "3 Pound 2 Ounce",
+        "extra": "2 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 4,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "1. Place green beans and sliced mushrooms not more than 3-4 inches deep in stainless steel inset pans.",
+      "Perforated pans provide the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in steamer for 10-12 minutes (5-6 psi) or 7-11 minutes (12-15 psi) or until just tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "2. Melt margarine and pour over the cooked green beans and mushrooms. Sprinkle with salt if desired.",
+      "3. Serve a 42 spoodle or menued portion.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 10,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 27,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Bake Turkey Butternut Squash",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": null,
+    "yield_unit": null,
+    "serving_utensil": "Yield: 100 62 ladle",
+    "calories_per_serving": 269,
+    "ingredients": [
+      {
+        "name": "Fresh Butternut Squash Peeled, Seeded, Cubed",
+        "qty": "67.29",
+        "unit": "cup",
+        "qty_value": 67.29,
+        "raw_qty": "67.29 Cup, Cubes",
+        "extra": "Cubes",
+        "needs_review": false
+      },
+      {
+        "name": "Cooked Pulled White Turkey Thawed",
+        "qty": "25",
+        "unit": "lb",
+        "qty_value": 25.0,
+        "raw_qty": "25 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\" Chopped",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "11.25 1 Cup, diced",
+        "needs_review": true
+      },
+      {
+        "name": "Celery Diced",
+        "qty": "2 2/3",
+        "unit": "tbsp",
+        "qty_value": 2.6666666666666665,
+        "raw_qty": "2 2/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Chopped Garlic in Water",
+        "qty": "4 1/3",
+        "unit": "tbsp",
+        "qty_value": 4.333333333333333,
+        "raw_qty": "4 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground Rosemary",
+        "qty": "1/2",
+        "unit": "cup",
+        "qty_value": 0.5,
+        "raw_qty": "1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Parsley Flakes",
+        "qty": "1",
+        "unit": "qt",
+        "qty_value": 1.0,
+        "raw_qty": "1 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      },
+      {
+        "name": "Shredded Mild Cheddar Cheese",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 11,
+    "ingredients_needing_review": 4,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER RUNNING WATER. DRAIN WELL.",
+      "1. Peel and seed the squash, then cube.",
+      "2. Thaw turkey in steam table pan in refrigerator.",
+      "CCP: REFRIGERATE AT 41\u00b0F OR BELOW.",
+      "3. Heat oil in pan and saute onions, celery, and garlic 5 minutes or until tender.",
+      "4, Place all remaining ingredients, except cheese in steam table pan and stir well.",
+      "5. Sprinkle top with cheese.",
+      "6. Cover and bake at 350\u00b0F for ~1 hour or until internal temperature reaches 135\u00b0F.",
+      "Serve 6z heaping ladle or menued portion.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "*Note: Frozen, cubed squash can be substituted for fresh."
+    ],
+    "instructions_count": 14,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 28,
+    "source": "20260526113819876",
+    "source_pages": [
+      28,
+      29
+    ]
+  },
+  {
+    "name": "Potatoes Red Bliss",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "3 potatoes",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Red Potatoes Size \"b\"",
+        "qty": "24",
+        "unit": "lb",
+        "qty_value": 24.0,
+        "raw_qty": "24 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "1 1/2",
+        "unit": "gal",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "4",
+        "unit": "lb",
+        "qty_value": 4.0,
+        "raw_qty": "4 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground Rosemary",
+        "qty": "1 1/3",
+        "unit": "tbsp",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "1 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 4,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "1. Wash potatoes. Remove eyes.",
+      "2, Leave potatoes whole.",
+      "3. In a steam-jacketed kettle, bring water to a boil and add potatoes. Cover and bring water quickly back to",
+      "a boil.",
+      "4. Continue boiling 30 to 40 minutes or until potatoes are tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS,",
+      "5, Drain and place in serving pans.",
+      "6, Distribute margarine uniformly over cooked potatoes.",
+      "7. Sprinkle rosemary over potatoes.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "8. Serve 2-3 small potatoes. (cut/quarter as desired)"
+    ],
+    "instructions_count": 14,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, Easy to Chew, NDD Level 3 & 2 Diets, serve potatoes without\nskins, For Finger Foods diet, cut each potato in half before service.",
+    "source_page": 30,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Veal Homestyle",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 each",
+    "serving_utensil": "Tongs",
+    "calories_per_serving": 270,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": "4",
+        "unit": "qt",
+        "qty_value": 4.0,
+        "raw_qty": "4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Garlic Powder",
+        "qty": "1 1/3",
+        "unit": "tbsp",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "1 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Veal Pty Oval Unbrd 4z Fz",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "100 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Margarine",
+        "qty": "1 1/2",
+        "unit": "cup",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 4,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "1. Mix flour and garlic powder. Roil patties in flour mixture.",
+      "2. Brown patties in margarine until browned on ali sides. Place patties in baking pans.",
+      "3, Bake in Convection Oven at 325\u00b0 F for one hour.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 155\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERTURE OF",
+      "135\u00b0F.",
+      "4. Serve 1 patty."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Level 2 & 3 Diets grind meat to desired texture.\n\nFor Finger Foods diet, cut patty into small, bite-size pieces.",
+    "source_page": 32,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Gravy Beef Fortified-Enrich",
+    "raw_category_label": "[None]",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "14 Oz Portion",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Water",
+        "qty": "2 3/4",
+        "unit": "qt",
+        "qty_value": 2.75,
+        "raw_qty": "2 3/4 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "NoAdded Msg Beef Gravy Mix",
+        "qty": "10 1/2",
+        "unit": "oz",
+        "qty_value": 10.5,
+        "raw_qty": "10 1/2 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Granulated Onion",
+        "qty": "2 1/8",
+        "unit": "tsp",
+        "qty_value": 2.125,
+        "raw_qty": "2 1/8 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Granulated Garlic",
+        "qty": "2 1/8",
+        "unit": "tsp",
+        "qty_value": 2.125,
+        "raw_qty": "2 1/8 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground Black Pepper",
+        "qty": "3/8",
+        "unit": "tsp",
+        "qty_value": 0.375,
+        "raw_qty": "3/8 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 5,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Bring 3 gts. of water to a boil. Place the gravy mix, milk powder, granulated onion and garlic and black",
+      "pepper in a stainless steel mixing bowl. Mix together thoroughly. Pour 1 qt. of cool tap eater over the gravy",
+      "mixture. Whisk",
+      "until smooth.",
+      "2. While stirring constantly, slowly pour the the gravy mixture into the boiling water. Simmer 2-3 minutes.",
+      "Stirring occasionally. Season to taste with salt and pepper.",
+      "3. Transfer to a covered storage container and refrigerate until needed. Adjust to desired consistency with",
+      "a small amount of water if necessary when reheating.",
+      "CCP: REFRIGERATE AT 41\u00b0F OR BELOW."
+    ],
+    "instructions_count": 9,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 34,
+    "source": "20260526113819876"
+  },
+  {
+    "name": "Fine Milk Powder-Enrich",
+    "raw_category_label": "[None]",
+    "category": "SIDE",
+    "yield_qty": null,
+    "yield_unit": null,
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fat Free Instant Powdered Milk",
+        "qty": "6 1/4",
+        "unit": "oz",
+        "qty_value": 6.25,
+        "raw_qty": "6 1/4 Ounce",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [],
+    "instructions_count": 0,
+    "has_ccp_notes": false,
+    "diet_notes": null,
+    "source_page": 1,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Carrots Whole Baby",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "4z spoodle",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Whole Baby Carrots",
+        "qty": "14",
+        "unit": "lb",
+        "qty_value": 14.0,
+        "raw_qty": "14 Pound",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Place vegetables not more than 3-4 inches deep in stainless steel inset pans, Perforated pans provide",
+      "the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in a steamer for 9-10 minutes (5-6 psi) or 5-9 minutes (12-15 psi) or until just tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 140\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "CCP; HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F,",
+      "3. Serve using a 4 oz spoodie."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 2,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Brussels Sprouts Crumb Topped",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "42 spoodle",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Brusse! Sprouts",
+        "qty": "15",
+        "unit": "lb",
+        "qty_value": 15.0,
+        "raw_qty": "15 Pound 12 Ounce",
+        "extra": "12 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 2/3 Tablespoon",
+        "extra": "2/3 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Japanese Panko (Bread Crumbs)",
+        "qty": "1 1/4",
+        "unit": "qt",
+        "qty_value": 1.25,
+        "raw_qty": "1 1/4 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 3,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER RUNNING WATER. DRAIN WELL.",
+      "1. Place vegetables not more than 3-4 inches deep in stainless steel inset pans. Perforated pans provide",
+      "the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in steamer for 10-12 minutes (5-6 psi) or 6-10 minutes (12-15 psi) or until just tender.",
+      "3. Melt margarine and combine bread crumbs. Sprinkle over Brussels sprouts.",
+      "4, Bake in oven at 350\u00b0F for 10-15 minutes or until lightly browned.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F,",
+      "*** Modified Diet Notes:",
+      "Minced & Moist: meat and/or vegetables serve finely chopped, tender and <4 mm in thick gravy or sauce",
+      "and puree any bread/starch.",
+      "Soft & Bite Sized: can contain meat, fish or vegetables if final cooked pieces are no larger than 1.5 cm x",
+      "1.5 cm and are soft and tender. No hard lumps. No fried vegetables."
+    ],
+    "instructions_count": 15,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 3,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Pork Tropical",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "3z slice",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Boneless Pork Loin Roast Ckd",
+        "qty": "419",
+        "unit": "lb",
+        "qty_value": 419.0,
+        "raw_qty": "419 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "4/2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "4/2 Cup 1 2/3 Tablespoon",
+        "extra": "1 2/3 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Jamaican Jerk Seasoning",
+        "qty": "3/4",
+        "unit": "cup",
+        "qty_value": 0.75,
+        "raw_qty": "3/4 Cup 2 Tablespoon",
+        "extra": "2 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Sauce Tropical Rum Glaze",
+        "qty": "41 1/2",
+        "unit": "cup",
+        "qty_value": 41.5,
+        "raw_qty": "41 1/2 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Sauce Tropical Rum Glaze",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup 3 Tablespoon",
+        "extra": "3 Tablespoon",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 5,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Preheat oven to 350 degrees.",
+      "2. Coat the pork loin with olive oil.",
+      "3. Sprinkle the pork with Jamaican Jerk seasoning and coat to create a crust.",
+      "4. Pour first amount of tropical rum sauce over pork loin (1/3 cup for 21 servings).",
+      "5. Place the pork in a pan, cover with foil and cook for 30 minutes.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "6. Uncover the pork loin and apply the 2nd amount of tropical rum sauce. Place back in oven to cook for",
+      "an additional 10-15 minutes.",
+      "7. Carve into 3z slices for service.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 12,
+    "has_ccp_notes": true,
+    "diet_notes": "For Finger Foods diet, cut the pork into small, bite-size pieces before serving.\n\neen",
+    "source_page": 4,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Beans Black and Rice",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": null,
+    "yield_unit": null,
+    "serving_utensil": null,
+    "calories_per_serving": 265,
+    "ingredients": [],
+    "ingredients_count": 0,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1. Cook rice according to recipe.",
+      "2, Meanwhile, in large saucepan, heat oil over medium heat. Add garlic, oregano and red pepper flakes",
+      "(optional); cook 1 to 2 minutes, stirring frequently.",
+      "3. Stir in beans; heat to boiling. Reduce heat; simmer uncovered 10 minutes, stirring occasionally, to",
+      "blend flavors. Serve over rice; sprinkle with chopped fresh red pepper.",
+      "4. Serve 3/4 cup per portion.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FOR A",
+      "MINIMUM OF 15 SECONDS,",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE OF",
+      "135\u00b0F.",
+      "*"
+    ],
+    "instructions_count": 11,
+    "has_ccp_notes": true,
+    "diet_notes": "Omit fresh red pepper for mechanical soft. NDD Level 3 diet, mash beans.\n\nnt",
+    "source_page": 5,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Rice White",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": null,
+    "yield_unit": null,
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Parboiled Long Grain Rice",
+        "qty": "10",
+        "unit": "lb",
+        "qty_value": 10.0,
+        "raw_qty": "10 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "3 1/4",
+        "unit": "gal",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 2,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "In Steamer:",
+      "Place rice in a counter pan or sauce pan. Pour hot water over rice. Stir. Steam uncovered for 30 to 40",
+      "minutes. Fluff with fork.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "Boiled:",
+      "Bring water to boil. Add rice. Stir. Cover tightly. Cook on low heat until rice is tender and all water is",
+      "absorbed, about 15 minutes.",
+      "Remove from heat and let stand covered about 5 minutes. Fluff with fork.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "Oven:",
+      "Place rice in a counter pan or greased casserole dish. Pour hot water over rice. Stir. Cover pan tighity.",
+      "Bake at 350\u00b0F for 30 minutes to one hour. Remove from oven and let stand covered for 5 minutes. Fluff",
+      "with fork.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F,",
+      "Serve using a #8 scoop or menued portion.",
+      "te NR"
+    ],
+    "instructions_count": 21,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 6,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Cann nee",
+    "raw_category_label": "Peas Creamy w/Red Peppers",
+    "category": "SIDE",
+    "yield_qty": null,
+    "yield_unit": null,
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Vegetable Oii",
+        "qty": "3",
+        "unit": "tbsp",
+        "qty_value": 3.0,
+        "raw_qty": "3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Red Bell Peppers",
+        "qty": "4.99",
+        "unit": "cup",
+        "qty_value": 4.99,
+        "raw_qty": "4.99 Cup, Chpd",
+        "extra": "Chpd",
+        "needs_review": false
+      },
+      {
+        "name": "Frozen Green Peas",
+        "qty": "15",
+        "unit": "lb",
+        "qty_value": 15.0,
+        "raw_qty": "15 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "12 1/2",
+        "unit": "oz",
+        "qty_value": 12.5,
+        "raw_qty": "12 1/2 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Flour",
+        "qty": "12 1/2",
+        "unit": "oz",
+        "qty_value": 12.5,
+        "raw_qty": "12 1/2 Ounce",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "1 2/3",
+        "unit": "tbsp",
+        "qty_value": 1.6666666666666665,
+        "raw_qty": "1 2/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1 1/2",
+        "unit": "tsp",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Teaspoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "2% White Milk",
+        "qty": "1 1/2",
+        "unit": "gal",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 8,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "1. Saute chopped red peppers in oil. Set aside.",
+      "2. Place peas not more than 3-4 inches deep in stainless steel inset pans. Perforated pans",
+      "provide the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "3. Cook vegetables in steamer for 6-7 minutes (5-6 psi) or 2-6 minutes (12-15 psi) or until just",
+      "tender.",
+      "GCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "4, To make cream gravy melt margarine and add flour. Blend well.",
+      "5. Stir in salt and pepper, Cook for 5 minutes.",
+      "6. Add milk gradually. Cook, stirring constantly with wire whip. Cook until smooth and",
+      "thickened.",
+      "7. Mix peppers and peas. Add sauce to cooked peas and peppers. Mix well.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "7. Serve using a 4 0z spoodle.",
+      "Source: Pathway to Living"
+    ],
+    "instructions_count": 17,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 8,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Goulash",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "6z ladle",
+    "serving_utensil": "6z ladie",
+    "calories_per_serving": 359,
+    "ingredients": [
+      {
+        "name": "Ground Beef 80/20",
+        "qty": "22",
+        "unit": "lb",
+        "qty_value": 22.0,
+        "raw_qty": "22 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Dcd 1/4\"",
+        "qty": "2 3/4",
+        "unit": "qt",
+        "qty_value": 2.75,
+        "raw_qty": "2 3/4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Garlic Powder",
+        "qty": "4 2/3",
+        "unit": "tbsp",
+        "qty_value": 4.666666666666667,
+        "raw_qty": "4 2/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "4/3",
+        "unit": "cup",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "4/3 Cup 2 1/3 Tablespoon",
+        "extra": "2 1/3 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Diced Tomato in Juice",
+        "qty": "2",
+        "unit": "gal",
+        "qty_value": 2.0,
+        "raw_qty": "2 Gallon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "100% Tomato Juice",
+        "qty": "1 1/2",
+        "unit": "gal",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Gallon 2 Cup",
+        "extra": "2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Granulated Sugar",
+        "qty": "1",
+        "unit": "cup",
+        "qty_value": 1.0,
+        "raw_qty": "1 Cup 2 Tablespoon",
+        "extra": "2 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Dry Elbow Macaroni 1 1/4 Galton",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      },
+      {
+        "name": "Water, Boiling",
+        "qty": "5 1/4",
+        "unit": "gal",
+        "qty_value": 5.25,
+        "raw_qty": "5 1/4 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 9,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "4. Ina steam-jacketed kettle, brown ground beef untii cooked through.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 155\u00b0F FOR 15 SECONDS.",
+      "2. Add diced onions, garlic powder, and pepper to ground beef. Cook until onions are translucent.",
+      "3. Add diced tomatoes, tomato juice, and sugar. Bring to a boil.",
+      "4. Add dry macaroni to boiling water and cook until tender. Drain.",
+      "5. Add cooked macaroni to meat and tomato mixture and simmer for 15 minutes.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "6. Serve a 6 oz ladle or menued portion. May be best served in a bowl.",
+      "mt ttt"
+    ],
+    "instructions_count": 10,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 9,
+    "source": "20260526113840505",
+    "source_pages": [
+      9,
+      10
+    ]
+  },
+  {
+    "name": "Greens Collard",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodie",
+    "serving_utensil": "4z spoodle",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Chopped Collard Greens 3 1/4 Galion",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "1. Place vegetables not more than 3-4 inches deep in stainless steel inset pans. Perforated pans provide",
+      "the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in steamer for 10-12 minutes (5-6 psi) or 7-11 minutes (12-15 psi) or until just tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 140\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "3. Serve using a 4 oz spoodle."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 11,
+    "source": "20260526113840505",
+    "source_pages": [
+      11,
+      32
+    ]
+  },
+  {
+    "name": "Burger Mushroom Swiss",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 each",
+    "serving_utensil": null,
+    "calories_per_serving": 543,
+    "ingredients": [
+      {
+        "name": "Sliced Processed Swiss Cheese 0.5z",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "100 1 Slice",
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 1,
+    "instructions": [],
+    "instructions_count": 0,
+    "has_ccp_notes": false,
+    "diet_notes": null,
+    "source_page": 13,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Potato Sweet Wedges Baked",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "1/2 cup",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Sweet Potato",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "50 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Pan Coating Spray",
+        "qty": "4",
+        "unit": "spray",
+        "qty_value": 4.0,
+        "raw_qty": "4 Spray to coat",
+        "extra": "to coat",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 2,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL RUNNING WATER, DRAIN WELL.",
+      "1. Preheat oven to 375 degrees.",
+      "2. Cut potatoes lengthwise into about 1/2 inch thick pieces. Lay on a sheet tray in a single layer and spray",
+      "with cooking spray.",
+      "3. Bake for about 20-30 minutes turning wedges once or twice during baking, until potatoes are crisp and",
+      "tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 145*F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "4, Serve 1/2 cup each.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135*F.",
+      "ent tt"
+    ],
+    "instructions_count": 12,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 15,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Baby Carrots Frsh MTG",
+    "raw_category_label": "[None]",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "1/2 cup",
+    "serving_utensil": null,
+    "calories_per_serving": 53,
+    "ingredients": [
+      {
+        "name": "Cleaned Whole Baby Carrots 3 1/4 Galion",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      },
+      {
+        "name": "Whole Baby Carrots",
+        "qty": "3 1/4",
+        "unit": "gal",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 2,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL PRODUCE UNDER COOL RUNNING WATER.",
+      "1. Serve.",
+      "CCP: COLD FOODS HELD FOR LATER SERVICE MUST NOT EXCEED A MAXIMUM INTERNAL",
+      "TEMPERATURE OF 41\u00b0F.",
+      "Child Nutrition: 1 cup serving provides= 1 cup redforange vegetable,",
+      "Updated June 2019",
+      "i tt"
+    ],
+    "instructions_count": 7,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 16,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Turkey Shepherd's Pie",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "8z ladle",
+    "serving_utensil": "82 ladie",
+    "calories_per_serving": 221,
+    "ingredients": [
+      {
+        "name": "Ground Turkey",
+        "qty": "25",
+        "unit": "lb",
+        "qty_value": 25.0,
+        "raw_qty": "25 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "2/3",
+        "unit": "cup",
+        "qty_value": 0.6666666666666666,
+        "raw_qty": "2/3 Cup 1/3 Tablespoon",
+        "extra": "1/3 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": "1 1/2",
+        "unit": "gal",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Crinkle Cut Sicd Carrots",
+        "qty": "41 1/2",
+        "unit": "gal",
+        "qty_value": 41.5,
+        "raw_qty": "41 1/2 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Mushrooms",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "54.17 1 Cup Sics",
+        "needs_review": true
+      },
+      {
+        "name": "Ground Thyme ;",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 1/2 Teaspoon",
+        "extra": "1/2 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Flour",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Low-Sodium Beef Base",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 1/2 Teaspoon",
+        "extra": "1/2 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "1",
+        "unit": "gal",
+        "qty_value": 1.0,
+        "raw_qty": "1 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 1/2 Teaspoon",
+        "extra": "1/2 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 1/2 Teaspoon",
+        "extra": "1/2 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Frozen Green Peas",
+        "qty": "1",
+        "unit": "gal",
+        "qty_value": 1.0,
+        "raw_qty": "1 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 12,
+    "ingredients_needing_review": 1,
+    "instructions": [],
+    "instructions_count": 0,
+    "has_ccp_notes": false,
+    "diet_notes": null,
+    "source_page": 17,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Sandwich Tuna Salad",
+    "raw_category_label": "Cold",
+    "category": "COLD_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "#10 scp, 2 brd",
+    "serving_utensil": "#8 scoop",
+    "calories_per_serving": 341,
+    "ingredients": [
+      {
+        "name": "Hard Cooked Peeled Eggs",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "25 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Canned Light Chunk Tuna in Water",
+        "qty": "42",
+        "unit": "lb",
+        "qty_value": 42.0,
+        "raw_qty": "42 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "~ Sweet Relish",
+        "qty": "3",
+        "unit": "cup",
+        "qty_value": 3.0,
+        "raw_qty": "3 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "~ Onion Powder",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "1",
+        "unit": "qt",
+        "qty_value": 1.0,
+        "raw_qty": "1 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Whole Wheat Bread",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "200 1 Slice",
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 2,
+    "instructions": [
+      "1. Finely chop eggs.",
+      "2. Drain and flake tuna.",
+      "3. Combine all ingredients. Mix lightly. Chill.",
+      "CCP: REFRIGERATE AT 41\u00b0F OR BELOW.",
+      "CCP: COLD FOOD HELD FOR LATER SERVICE MUST NOT EXCEED A MAXIMUM INTERNAL",
+      "TEMPERATURE OF 41\u00b0F.",
+      "4. Assemble sandwiches."
+    ],
+    "instructions_count": 7,
+    "has_ccp_notes": true,
+    "diet_notes": "For NDD Level 3 diet, OMIT relish.\n\nFor Gluten Free diet, use gluten free bread.\n\nFor Finger Food diet, sandwich should be cut into quarters.\n\nA nee",
+    "source_page": 20,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Salad Spinach & Kale MTG",
+    "raw_category_label": "[None]",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "14 Cup",
+    "serving_utensil": null,
+    "calories_per_serving": 82,
+    "ingredients": [
+      {
+        "name": "Fresh Cleaned Baby Spinach with Stems",
+        "qty": "5",
+        "unit": "lb",
+        "qty_value": 5.0,
+        "raw_qty": "5 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Cleaned Kale",
+        "qty": "5",
+        "unit": "lb",
+        "qty_value": 5.0,
+        "raw_qty": "5 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Cucumber",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "3.75 1 Cup, Sicd",
+        "needs_review": true
+      },
+      {
+        "name": "Grape Tomatoes",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "2.5 1 Pint",
+        "needs_review": true
+      },
+      {
+        "name": "Feta Cheese Crumbles",
+        "qty": "1 1/4",
+        "unit": "qt",
+        "qty_value": 1.25,
+        "raw_qty": "1 1/4 Quart",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Chardonnay Mango Dressing",
+        "qty": "1 1/4",
+        "unit": "qt",
+        "qty_value": 1.25,
+        "raw_qty": "1 1/4 Quart",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 2,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGE PRODUCE UNDER RUNNING WATER.",
+      "1. Mix spinach and kale together.",
+      "2. Add salad dressing. (Don't add too early prior to serving or greens will wilt)",
+      "3. Top each salad with cucumbers, tomatoes, and a sprinkle of feta.",
+      "Child Nutrition: 1 cup provides= 3/8 cup dark green vegetable",
+      "Updated October 2013"
+    ],
+    "instructions_count": 6,
+    "has_ccp_notes": false,
+    "diet_notes": null,
+    "source_page": 21,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Salad Mixed Greens",
+    "raw_category_label": "Cold",
+    "category": "COLD_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 Salad",
+    "serving_utensil": null,
+    "calories_per_serving": 193,
+    "ingredients": [
+      {
+        "name": "1.5\" Cut Iceburg/Romaine Lettuce Mix",
+        "qty": "14",
+        "unit": "lb",
+        "qty_value": 14.0,
+        "raw_qty": "14 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Tomato",
+        "qty": "4",
+        "unit": "lb",
+        "qty_value": 4.0,
+        "raw_qty": "4 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Cucumber",
+        "qty": "9",
+        "unit": "lb",
+        "qty_value": 9.0,
+        "raw_qty": "9 Pound",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Shredded Mild Cheddar Cheese",
+        "qty": "6",
+        "unit": "lb",
+        "qty_value": 6.0,
+        "raw_qty": "6 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Seasoned Homestyle Croutons",
+        "qty": "3",
+        "unit": "lb",
+        "qty_value": 3.0,
+        "raw_qty": "3 Pound 2 Ounce",
+        "extra": "2 Ounce",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 5,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL RUNNING WATER. DRAIN WELL.",
+      "1. Open ready to use lettuce blend and place contents into a mixing bowl.",
+      "2. Core and dice tomatoes.",
+      "3. Peel and slice cucumbers into 1/4\" slices.",
+      "4, Combine 2-3 and cheese and add to lettuce blend. Toss.",
+      "5. Portion 1 cup of lettuce nto individual salad bowls, garnish with croutons and serve 1 tbsp of dressing",
+      "with salad.",
+      "CCP: FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MAXIMUM INTERNAL TEMPERATURE OF",
+      "41\u00b0F.",
+      "Modified Diet Note: For Gluten Free diet, OMIT croutons."
+    ],
+    "instructions_count": 10,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 22,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Chicken Breast BBQ",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 breast",
+    "serving_utensil": "Tongs",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Pan Coating Spray",
+        "qty": "2",
+        "unit": "spray",
+        "qty_value": 2.0,
+        "raw_qty": "2 Spray to coat",
+        "extra": "to coat",
+        "needs_review": false
+      },
+      {
+        "name": "Boneless Skinless Chicken Breast",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "100 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "1",
+        "unit": "gal",
+        "qty_value": 1.0,
+        "raw_qty": "1 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 3,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "4. Arrange chicken on baking sheets sprayed with cooking spray.",
+      "2. Brown chicken at 425\u00b0F for 20 to 30 minutes.",
+      "3. Reduce heat to 325\u00b0F.",
+      "4. Pour barbecue sauce over chicken.",
+      "5. Bake at 325\u00b0F for 10-15 minutes or until fully cooked.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 165\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "6. Serve 1 breast.",
+      "*Modified Diet Notes:",
+      "For Mechanica! Soft, NDD Level 2 & 3 Diets, grind meat to desired texture."
+    ],
+    "instructions_count": 12,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 23,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Potato Sweet Baked Half Portion",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": null,
+    "yield_unit": null,
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Sweet Potato",
+        "qty": "36",
+        "unit": "lb",
+        "qty_value": 36.0,
+        "raw_qty": "36 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER, DRAIN WELL.",
+      "1. Scrub potatoes thoroughly. Remove blemishes. Pierce in two places.",
+      "2. Place on baking sheets. Bake at 400\u00b0F for 4 to 1 1/2 hours or until soft.",
+      "3. When you are ready to serve, cut each potato* in half and serve.",
+      "*Each potato may vary in size, so you may need more or less than 1/2 potato to achieve 1/2 each ~5.8 oz.",
+      "CCP: FINAL INTERNAL COOKING TEMPERTURE MUST REACH A MINIMUM OF 140\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECOONDS.",
+      "CCP: HOT FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERTURE OF",
+      "135\u00b0F."
+    ],
+    "instructions_count": 9,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 24,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Cucumbers Marinated",
+    "raw_category_label": "Cold",
+    "category": "COLD_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "4z sitd spoodle",
+    "calories_per_serving": 53,
+    "ingredients": [
+      {
+        "name": "Cucumber",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "57 1 Cup, Sicd",
+        "needs_review": true
+      },
+      {
+        "name": "100% Lemon Juice",
+        "qty": "1/4",
+        "unit": "cup",
+        "qty_value": 0.25,
+        "raw_qty": "1/4 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "White Vinegar",
+        "qty": "2/3",
+        "unit": "cup",
+        "qty_value": 0.6666666666666666,
+        "raw_qty": "2/3 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Water",
+        "qty": "2/3",
+        "unit": "cup",
+        "qty_value": 0.6666666666666666,
+        "raw_qty": "2/3 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": "1 1/4",
+        "unit": "cup",
+        "qty_value": 1.25,
+        "raw_qty": "1 1/4 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Parsley Flakes",
+        "qty": "3",
+        "unit": "tbsp",
+        "qty_value": 3.0,
+        "raw_qty": "3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Tarragon Leaf",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Granulated Sugar",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 9,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL, RUNNING WATER. DRAIN WELL.",
+      "1. Peel and slice cucumbers into 1/4\" slices.",
+      "2. Combine remaining ingredients. Mix well.",
+      "3. Pour marinade over cucumbers. Mix thoroughly.",
+      "4, Cover and refrigerate for 2 to 3 hours.",
+      "CCP: PRODUCT MUST BE COOLED TO AN INTERNAL TEMPERATURE OF 41\u00b0F OR LESS, WITHIN 4",
+      "HOURS.",
+      "5. Drain off most of the marinade before serving.",
+      "6. Serve with 1/2 cup slotted spoodle.",
+      "CCP: FOOD HELD FOR LATER SERVICE MUST MAINTAIN A MAXIMUM INTERNAL TEMPERATURE OF",
+      "41\u00b0F."
+    ],
+    "instructions_count": 11,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft Diet, cucumbers need to be finely chopped. This food may or may not be allowed\nbased on individual patient/resident tolerance.\n\nFor NDD Level 3 & 2 Diets, serve an allowed, cooked, soft vegetable.",
+    "source_page": 25,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Cucumber & Tomatoes Marinated",
+    "raw_category_label": "Cold",
+    "category": "COLD_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "4z spoodle",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Cucumber",
+        "qty": "1",
+        "unit": "gal",
+        "qty_value": 1.0,
+        "raw_qty": "1 Gallon 3 Cup",
+        "extra": "3 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Yellow Onions",
+        "qty": "1 1/2",
+        "unit": "qt",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Quart 1/4 Cup",
+        "extra": "1/4 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Fresh Tomato",
+        "qty": "4 1/2",
+        "unit": "gal",
+        "qty_value": 4.5,
+        "raw_qty": "4 1/2 Gallon 1 Cup",
+        "extra": "1 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "1",
+        "unit": "qt",
+        "qty_value": 1.0,
+        "raw_qty": "1 Quart 1/4 Cup",
+        "extra": "1/4 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Granulated Sugar",
+        "qty": "1/3",
+        "unit": "cup",
+        "qty_value": 0.3333333333333333,
+        "raw_qty": "1/3 Cup 1/2 Teaspoon",
+        "extra": "1/2 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "2 2/3",
+        "unit": "tbsp",
+        "qty_value": 2.6666666666666665,
+        "raw_qty": "2 2/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Dill Weed",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1 1/3",
+        "unit": "tbsp",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "1 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "2",
+        "unit": "cup",
+        "qty_value": 2.0,
+        "raw_qty": "2 Cup",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 9,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH PRODUCE UNDER COOL RUNNING WATER. DRAIN WELL.",
+      "4. Peel and slice cucumbers and onions. Cube tomatoes.",
+      "2. Ina large bowl, mix the vinegar, sugar, salt, dill, pepper, and oil. Add cucumbers, onion, and tomatoes,",
+      "Toss and let stand at least 15 minutes before serving.",
+      "CCP: COLD FOODS HELD FOR LATER SERVICE MUST NOT EXCEED A MAXIMUM INTERNAL",
+      "TEMPERATURE OF 41\u00b0F,",
+      "3. Serve using a 4 oz spoodle (heaping)."
+    ],
+    "instructions_count": 7,
+    "has_ccp_notes": true,
+    "diet_notes": "For Finger Foods Diet, OMIT step 2. Serve 1/2 cup of sliced cucumbers and cubed tomatoes,\n\nFor Mechanical Soft Diet, cucumbers & tomatoes need to be finely chopped. This food may or may not be\nallowed based on individual patient/resident tolerance.\n\nFor NDD Levels 3 & 2 Diets, serve allowed, cooked, soft vegetable.",
+    "source_page": 27,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Crisp Blueberry",
+    "raw_category_label": "Cold",
+    "category": "DESSERT",
+    "yield_qty": 100,
+    "yield_unit": "3x2\"pc",
+    "serving_utensil": "Spatula",
+    "calories_per_serving": 227,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": "3 1/2",
+        "unit": "cup",
+        "qty_value": 3.5,
+        "raw_qty": "3 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Quick Oats, Dry",
+        "qty": "1 1/4",
+        "unit": "qt",
+        "qty_value": 1.25,
+        "raw_qty": "1 1/4 Quart 1/4 Cup",
+        "extra": "1/4 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Brown Sugar",
+        "qty": "1 1/4",
+        "unit": "qt",
+        "qty_value": 1.25,
+        "raw_qty": "1 1/4 Quart 1/4 Cup",
+        "extra": "1/4 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Margarine",
+        "qty": "3 1/4",
+        "unit": "cup",
+        "qty_value": 3.25,
+        "raw_qty": "3 1/4 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Pan Coating Spray",
+        "qty": "2",
+        "unit": "spray",
+        "qty_value": 2.0,
+        "raw_qty": "2 Spray to coat",
+        "extra": "to coat",
+        "needs_review": false
+      },
+      {
+        "name": "Blueberry Pie Filling 2.5 #10 Can",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": null,
+        "needs_review": true
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 1,
+    "instructions": [
+      "For Topping:",
+      "1. Combine flour, oats, and brown sugar in mixing bowl. Mix with flat paddle until just combined.",
+      "2. Cut margarine into cubes and add to oat mixture slowly while mixing crisp topping. Continue adding",
+      "margarine until all is added and mixing only until margarine is mixed in. Mixture should appear crumbly.",
+      "3. Spray 12 x 20 x 2\" cake pan with cooking spray and add 2 cans of blueberry pie filling.",
+      "4. Top with crisp topping.",
+      "5. Bake at 325\u00b0F in Convection Oven for approximately 35 minutes or until golden brown.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FOR 15",
+      "SECONDS.",
+      "6. Cut and serve.",
+      "For 80 servings, use 2 pans (pan size 12 x 20 x 2), cut 4x 10",
+      "For 24 servings, use 2 pans (pan size 8 x 8), cut 4x 3",
+      "For 40 servings, use 1 pan (pan size 12 x 20 x 2), cut 4x 10",
+      "For 12 servings, use 1 pan (pan size 8 x 8), cut 4x3"
+    ],
+    "instructions_count": 14,
+    "has_ccp_notes": true,
+    "diet_notes": "NDD Level 2 (Dysphagia Mechanically Altered): Omit Top Crust.\n\nNDD Level 3 Diet: do not over bake crisp. It should be soft.",
+    "source_page": 28,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Pork Chop Apple",
+    "raw_category_label": "Hot",
+    "category": "HOT_ENTREE",
+    "yield_qty": 100,
+    "yield_unit": "1 chop 2 ap",
+    "serving_utensil": "Tongs",
+    "calories_per_serving": 243,
+    "ingredients": [
+      {
+        "name": "Onion Ded 1/4\"",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "10.2 1 Cup, diced",
+        "needs_review": true
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "1 1/2",
+        "unit": "cup",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Boneless Center Cut Pork Loin Chop, 4z",
+        "qty": null,
+        "unit": null,
+        "qty_value": null,
+        "raw_qty": "100 1 Each",
+        "needs_review": true
+      },
+      {
+        "name": "Pan Coating Spray",
+        "qty": "2",
+        "unit": "spray",
+        "qty_value": 2.0,
+        "raw_qty": "2 Spray to coat",
+        "extra": "to coat",
+        "needs_review": false
+      },
+      {
+        "name": "Salt",
+        "qty": "1 1/3",
+        "unit": "tbsp",
+        "qty_value": 1.3333333333333333,
+        "raw_qty": "1 1/3 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1/4",
+        "unit": "cup",
+        "qty_value": 0.25,
+        "raw_qty": "1/4 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Sliced Apples",
+        "qty": "2 1/4",
+        "unit": "qt",
+        "qty_value": 2.25,
+        "raw_qty": "2 1/4 Quart 1/2 Cup",
+        "extra": "1/2 Cup",
+        "needs_review": false
+      },
+      {
+        "name": "Brown Sugar",
+        "qty": "3",
+        "unit": "cup",
+        "qty_value": 3.0,
+        "raw_qty": "3 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground Mustard",
+        "qty": "1/4",
+        "unit": "cup",
+        "qty_value": 0.25,
+        "raw_qty": "1/4 Cup",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Ground Cloves",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon",
+        "extra": null,
+        "needs_review": false
+      },
+      {
+        "name": "Hot Water",
+        "qty": "1 1/4",
+        "unit": "gal",
+        "qty_value": 1.25,
+        "raw_qty": "1 1/4 Gallon",
+        "extra": null,
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 11,
+    "ingredients_needing_review": 2,
+    "instructions": [
+      "1, Preheat oven to 375F.",
+      "2. Heat 2 tbsp. of oil in large skillet. Saute onion and set aside. Add remaining oil and brown pork chops",
+      "on both sides.",
+      "3. Place browned chops in sprayed full size hotel pan and sprinkle them with salt and pepper. Cover the",
+      "chops with the cooked onions and 2 appie slices per pork chop.",
+      "4. Ina small bowl, combine brown sugar, mustard, cloves and hot water. Pour over chops. Cover and",
+      "bake in the preheated oven for 20 to 30 minutes.",
+      "CCP: FINAL INTERNAL COOKING TERMPERATURE MUST REACH A MINIMUM OF 145\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "CCP; HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "5. Serve 1 pork chop with 2 apple slices on top."
+    ],
+    "instructions_count": 12,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Level 2 & 3 Diets, grind meat to desired texture.",
+    "source_page": 29,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Potatoes Rosemary Roasted",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "#8 scoop",
+    "serving_utensil": null,
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Fresh Baker Potato",
+        "qty": "23",
+        "unit": "lb",
+        "qty_value": 23.0,
+        "raw_qty": "23 Pound 8 Ounce",
+        "extra": "8 Ounce",
+        "needs_review": false
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": "1 1/2",
+        "unit": "cup",
+        "qty_value": 1.5,
+        "raw_qty": "1 1/2 Cup 1 Tablespoon",
+        "extra": "1 Tablespoon",
+        "needs_review": false
+      },
+      {
+        "name": "Ground Rosemary",
+        "qty": "1/4",
+        "unit": "cup",
+        "qty_value": 0.25,
+        "raw_qty": "1/4 Cup 1/2 Teaspoon",
+        "extra": "1/2 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Sait",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon 1/4 Teaspoon",
+        "extra": "1/4 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Garlic Powder",
+        "qty": "2",
+        "unit": "tbsp",
+        "qty_value": 2.0,
+        "raw_qty": "2 Tablespoon 1/4 Teaspoon",
+        "extra": "1/4 Teaspoon",
+        "needs_review": false
+      },
+      {
+        "name": "Regular Grind Black Pepper",
+        "qty": "1",
+        "unit": "tbsp",
+        "qty_value": 1.0,
+        "raw_qty": "1 Tablespoon 1/4 Teaspoon",
+        "extra": "1/4 Teaspoon",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 6,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "WASH ALL FRESH, UNPACKAGED PRODUCE UNDER RUNNING WATER. DRAIN WELL.",
+      "{. Preheat oven to 425\u00b0F.",
+      "2. Wash potatoes and slice 1/2\" thick.",
+      "3. Combine potato slices and all other ingredients in a large mixing bowl; toss to coat.",
+      "4. Spread potatoes in an even layer in a shallow baking pan.",
+      "5. Bake for 10 minutes until tender, turning once.",
+      "6. Serve 1/2 cup (or menued portion).",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 135\u00b0F, HELD FORA",
+      "MINIMUM OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F."
+    ],
+    "instructions_count": 11,
+    "has_ccp_notes": true,
+    "diet_notes": "For Mechanical Soft, NDD Levels 3 & 2 potato skins should be removed before cooking. Cook potatoes\nuntil soft and tender.\n\nFor Finger Foods diet, drain the oil from the potatoes before serving.",
+    "source_page": 31,
+    "source": "20260526113840505"
+  },
+  {
+    "name": "Vegetable Blend Capri",
+    "raw_category_label": "Hot",
+    "category": "SIDE",
+    "yield_qty": 100,
+    "yield_unit": "4z spoodle",
+    "serving_utensil": "4z spoodie",
+    "calories_per_serving": null,
+    "ingredients": [
+      {
+        "name": "Capri Vegetable Blend",
+        "qty": "14",
+        "unit": "lb",
+        "qty_value": 14.0,
+        "raw_qty": "14 Pound 4 Ounce",
+        "extra": "4 Ounce",
+        "needs_review": false
+      }
+    ],
+    "ingredients_count": 1,
+    "ingredients_needing_review": 0,
+    "instructions": [
+      "1, Place vegetables not more than 3-4 inches deep in stainless steel inset pans. Perforated pans provide",
+      "the best circulation, but if cooking liquid needs to be retained use solid pans.",
+      "2. Cook vegetables in steamer for 10 minutes (5-6 psi) or 5-9 minutes (12-15 psi) or until just tender.",
+      "CCP: FINAL INTERNAL COOKING TEMPERATURE MUST REACH A MINIMUM OF 140\u00b0F FOR A MINIMUM",
+      "OF 15 SECONDS.",
+      "CCP: HOT FOODS HELD FOR LATER SERVICE MUST MAINTAIN A MINIMUM INTERNAL TEMPERATURE",
+      "OF 135\u00b0F.",
+      "3. Serve using a 4 0z spoodle."
+    ],
+    "instructions_count": 8,
+    "has_ccp_notes": true,
+    "diet_notes": null,
+    "source_page": 33,
+    "source": "20260526113840505",
+    "source_pages": [
+      33,
+      34
+    ]
+  }
+]
