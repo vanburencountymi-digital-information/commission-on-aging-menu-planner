@@ -268,7 +268,7 @@ Based on the above data, call submit_review_summary with a concise, accurate rev
 - recommended_action should be direct and actionable for the RD`;
 
   const response = await client.messages.create({
-    model: 'claude-sonnet-4-5',
+    model: 'claude-sonnet-5-5',
     max_tokens: 2000,
     tools: [REVIEW_SUMMARY_TOOL],
     tool_choice: { type: 'tool', name: 'submit_review_summary' },
@@ -397,7 +397,7 @@ Parse this recipe and call submit_recipe with the complete standardized COA reco
 Call submit_recipe with the complete recipe.`;
 
   const response = await client.messages.create({
-    model: 'claude-sonnet-4-5',
+    model: 'claude-sonnet-5-5',
     max_tokens: 3000,
     tools: [GENERATE_RECIPE_TOOL],
     tool_choice: { type: 'tool', name: 'submit_recipe' },
@@ -452,7 +452,7 @@ ${examplesText}
 Call submit_recipe with the complete recipe. Be specific and realistic — ingredients with exact quantities for 100 servings, practical oven temps and cook times, and clear numbered instructions a kitchen worker can follow.`;
 
   const response = await client.messages.create({
-    model: 'claude-sonnet-4-5',
+    model: 'claude-sonnet-5-5',
     max_tokens: 3000,
     tools: [GENERATE_RECIPE_TOOL],
     tool_choice: { type: 'tool', name: 'submit_recipe' },
@@ -548,7 +548,7 @@ Suggest 1–3 specific item swaps that would resolve this conflict without creat
 Call submit_substitution_suggestions with your proposals.`;
 
   const response = await client.messages.create({
-    model: 'claude-sonnet-4-5',
+    model: 'claude-sonnet-5-5',
     max_tokens: 1500,
     tools: [SUGGESTIONS_TOOL],
     tool_choice: { type: 'tool', name: 'submit_substitution_suggestions' },
@@ -684,7 +684,7 @@ Interpret the Nutrition Manager's instruction and propose the minimal set of cha
 Call submit_menu_edits with your proposed diff.`;
 
   const response = await client.messages.create({
-    model: 'claude-sonnet-4-5',
+    model: 'claude-sonnet-5-5',
     max_tokens: 4000,
     tools: [MENU_EDIT_TOOL],
     tool_choice: { type: 'tool', name: 'submit_menu_edits' },
@@ -977,7 +977,7 @@ Call submit_menu_proposal with your complete suggestion set.`;
   // Stream the response: the SDK rejects non-streaming requests above its
   // token threshold (the >10-minute guard), so high max_tokens requires it.
   const stream = client.messages.stream({
-    model: 'claude-sonnet-4-5',
+    model: 'claude-sonnet-5-5',
     max_tokens: 32000,
     tools: [SUBMIT_TOOL],
     tool_choice: { type: 'tool', name: 'submit_menu_proposal' },

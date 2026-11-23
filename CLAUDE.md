@@ -115,7 +115,7 @@ If a session ends with uncommitted or unpushed changes, say so explicitly in the
 | Use case | Model |
 |---|---|
 | Classification, matching, short structured output | `claude-haiku-4-5` |
-| Recipe generation, menu proposals, narrative text | `claude-sonnet-4-5` |
+| Recipe generation, menu proposals, narrative text | `claude-sonnet-5-5` |
 
 - All Claude calls go through `apps/api/services/ai.js`
 - Use tool-based (structured) calls whenever the output maps to a DB schema
